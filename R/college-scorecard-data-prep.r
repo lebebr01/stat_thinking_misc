@@ -63,7 +63,7 @@ write_csv(college_score, path = 'data-raw/College-scorecard-4143.csv')
 
 # Filter based on region of country
 college_score_plains <- college_score %>%
-  filter(REGION == 4)
+  filter(region == 'Plains')
 
 write_csv(college_score_plains, path = 'data-raw/College-scorecard-4143-plains.csv')
 
