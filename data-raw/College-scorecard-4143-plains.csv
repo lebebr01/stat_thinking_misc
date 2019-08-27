@@ -1,0 +1,584 @@
+instnm,city,stabbr,preddeg,region,locale,adm_rate,actcmmid,ugds,costt4_a,costt4_p,tuitionfee_in,tuitionfee_out,debt_mdn,grad_debt_mdn,female
+Walden University,Minneapolis,MN,Bachelor Degree,Plains,City: Large,NA,NA,6538,NA,NA,12465,12465,12000,24028,0.812806461
+Allen College,Waterloo,IA,Bachelor Degree,Plains,City: Small,NA,NA,329,NA,NA,18226,18226,15000,15000,0.884615385
+Briar Cliff University,Sioux City,IA,Bachelor Degree,Plains,City: Small,NA,NA,928,40794,NA,29786,29786,14750,22500,0.570754717
+Buena Vista University,Storm Lake,IA,Bachelor Degree,Plains,Town: Remote,0.6385,22,1692,44645,NA,32854,32854,17301,24748,0.689291101
+Capri College-Dubuque,Dubuque,IA,Certificate Degree,Plains,City: Small,NA,NA,167,NA,15434,NA,NA,7600,7847,0.953667954
+Capri College-Cedar Rapids,Cedar Rapids,IA,Certificate Degree,Plains,City: Midsize,NA,NA,145,NA,15970,NA,NA,7426,7787,0.930693069
+Central College,Pella,IA,Bachelor Degree,Plains,Town: Distant,0.7009,24,1198,49214,NA,35930,35930,23250,27000,0.489619377
+Clarke University,Dubuque,IA,Bachelor Degree,Plains,City: Small,0.6319,23,757,44363,NA,31950,31950,19664.5,26167,0.608695652
+Coe College,Cedar Rapids,IA,Bachelor Degree,Plains,City: Midsize,0.5624,25,1350,53261,NA,42430,42430,24621,28500,0.574780059
+Cornell College,Mount Vernon,IA,Bachelor Degree,Plains,Town: Fringe,0.6503,26,1004,53877,NA,40880,40880,25000,27000,0.46741573
+Iowa School of Beauty-Marshalltown,Marshalltown,IA,Certificate Degree,Plains,Town: Distant,NA,NA,6,NA,19254,NA,NA,11943,NA,NA
+Des Moines Area Community College,Ankeny,IA,Associate Degree,Plains,Suburb: Large,NA,NA,12521,13763,NA,4530,9060,5500,9834,0.547203034
+Divine Word College,Epworth,IA,Bachelor Degree,Plains,Rural: Distant,1,NA,65,19199,NA,12850,12850,NA,NA,NA
+Dordt College,Sioux Center,IA,Bachelor Degree,Plains,Town: Remote,0.7207,25,1353,42378,NA,30000,30000,18989.5,23250,0.482078853
+Drake University,Des Moines,IA,Bachelor Degree,Plains,City: Midsize,0.688,27,3038,49402,NA,39062,39062,22500,26441.5,0.609756098
+University of Dubuque,Dubuque,IA,Bachelor Degree,Plains,City: Small,0.7416,19,1955,39389,NA,29710,29710,16671.5,24347,0.42459605
+Ellsworth Community College,Iowa Falls,IA,Associate Degree,Plains,Town: Distant,NA,NA,691,15794,NA,4656,5592,6500,10250,0.409733124
+Emmaus Bible College,Dubuque,IA,Certificate Degree,Plains,City: Small,0.5751,23,254,25982,NA,17520,17520,11280,14000,0.559322034
+Eastern Iowa Community College District,Davenport,IA,Associate Degree,Plains,City: Midsize,NA,NA,3185,13271,NA,4960,7104,5500,10500,0.626948052
+Faith Baptist Bible College and Theological Seminary,Ankeny,IA,Bachelor Degree,Plains,Suburb: Large,0.6,23,256,28104,NA,16766,16766,8750,12828.5,0.571428571
+Faust Institute of Cosmetology-Storm Lake,Storm Lake,IA,Certificate Degree,Plains,Rural: Fringe,NA,NA,25,NA,11907,NA,NA,12000,NA,NA
+Graceland University-Lamoni,Lamoni,IA,Bachelor Degree,Plains,Rural: Remote,0.5614,21,1208,39770,NA,28110,28110,17201,22832,0.547762999
+Grand View University,Des Moines,IA,Bachelor Degree,Plains,City: Midsize,0.9268,21,1753,35403,NA,26516,26516,18000,23500,0.545623836
+Grinnell College,Grinnell,IA,Bachelor Degree,Plains,Town: Remote,0.2887,32,1660,63838,NA,50714,50714,13500,15600,0.534883721
+Purdue University Global-Mason City,Mason City,IA,Associate Degree,Plains,Town: Remote,NA,NA,133,NA,NA,15352,15352,12638,28018.5,0.796749238
+Purdue University Global-Cedar Rapids,Cedar Rapids,IA,Associate Degree,Plains,City: Midsize,NA,NA,417,23836,NA,15352,15352,12638,28018.5,0.796749238
+Hamilton Technical College,Davenport,IA,Associate Degree,Plains,City: Midsize,NA,NA,134,23251,NA,14250,14250,9500,9500,0.603015075
+Hawkeye Community College,Waterloo,IA,Associate Degree,Plains,City: Small,NA,NA,3499,15011,NA,5042,5752,7550,11441,0.534383404
+American Hair Academy,Mt. Pleasant,IA,Certificate Degree,Plains,Town: Remote,NA,NA,24,NA,12879,NA,NA,11149,12411.5,NA
+Indian Hills Community College,Ottumwa,IA,Associate Degree,Plains,Town: Remote,NA,NA,2143,12568,NA,4080,5760,7125,12000,0.509047619
+Iowa Central Community College,Fort Dodge,IA,Associate Degree,Plains,Town: Remote,NA,NA,3523,13602,NA,5340,7665,7326.5,11000,0.467469189
+Iowa Lakes Community College,Estherville,IA,Associate Degree,Plains,Town: Remote,NA,NA,1134,14925,NA,6236,6588,6500,11239,0.492600423
+UnityPoint Health-Des Moines School of Radiologic Technology,Des Moines,IA,Certificate Degree,Plains,City: Midsize,NA,NA,18,NA,NA,NA,NA,NA,NA,NA
+American College of Hairstyling-Des Moines,Des Moines,IA,Certificate Degree,Plains,City: Midsize,NA,NA,26,NA,17508,NA,NA,10000,NA,NA
+Iowa School of Beauty-Des Moines,Des Moines,IA,Certificate Degree,Plains,Suburb: Large,NA,NA,45,NA,16112,NA,NA,6677.5,6861,0.929577465
+Iowa State University,Ames,IA,Bachelor Degree,Plains,City: Small,0.8934,25,30116,19878,NA,8636,22472,18749,23256,0.462423697
+Iowa Wesleyan University,Mount Pleasant,IA,Bachelor Degree,Plains,Town: Remote,0.5001,20,602,37905,NA,24600,30500,12000,25000,0.460916442
+Iowa Western Community College,Council Bluffs,IA,Associate Degree,Plains,City: Small,NA,NA,4033,16121,NA,5664,5824,7500,12000,0.53999414
+University of Iowa,Iowa City,IA,Bachelor Degree,Plains,City: Small,0.8604,26,23349,21875,NA,8965,30609,16000,21500,0.562304321
+Kirkwood Community College,Cedar Rapids,IA,Associate Degree,Plains,City: Midsize,NA,NA,8958,14829,NA,4586,5706,6500,12000,0.532641183
+La James International College-Cedar Falls,Cedar Falls,IA,Certificate Degree,Plains,City: Small,NA,NA,25,NA,18590,NA,NA,9500,12000,NA
+La James International College-Johnston,Johnston,IA,Certificate Degree,Plains,Suburb: Large,NA,NA,73,NA,18830,NA,NA,9500,13803,NA
+La James College of Hairstyling and Cosmetology,Mason City,IA,Certificate Degree,Plains,Town: Remote,NA,NA,52,NA,14025,NA,NA,6750,6860,NA
+La James International College-Ft Dodge,Fort Dodge,IA,Certificate Degree,Plains,Town: Remote,NA,NA,40,NA,20296,NA,NA,9500,12375,NA
+Loras College,Dubuque,IA,Bachelor Degree,Plains,City: Small,0.9509,23,1362,41934,NA,32886,32886,21937,27000,0.463525836
+Luther College,Decorah,IA,Bachelor Degree,Plains,Town: Remote,0.6509,26,2008,52524,NA,41020,41020,26193,27000,0.524271845
+Maharishi University of Management,Fairfield,IA,Bachelor Degree,Plains,Town: Remote,0.8889,NA,320,39730,NA,27530,27530,24087,39037,0.528735632
+Marshalltown Community College,Marshalltown,IA,Associate Degree,Plains,Rural: Fringe,NA,NA,1019,13090,NA,4656,4992,5500,8875,0.588005215
+Mercy College of Health Sciences,Des Moines,IA,Bachelor Degree,Plains,City: Midsize,0.959,20,755,26778,NA,17600,17600,14000,20000,0.863084922
+Morningside College,Sioux City,IA,Bachelor Degree,Plains,City: Small,0.5518,23,1270,41996,NA,30490,30490,16000,27000,0.577669903
+Mount Mercy University,Cedar Rapids,IA,Bachelor Degree,Plains,City: Midsize,0.5724,22,1502,43185,NA,30582,30582,16795,22000,0.717241379
+North Iowa Area Community College,Mason City,IA,Associate Degree,Plains,Town: Remote,NA,NA,1682,12781,NA,5213,7429,5500,8146.5,0.54368932
+University of Northern Iowa,Cedar Falls,IA,Bachelor Degree,Plains,City: Small,0.8083,24,9686,20593,NA,8699,19241,15849,20354,0.595083488
+Northwestern College,Orange City,IA,Bachelor Degree,Plains,Town: Distant,0.681,24,1014,42676,NA,30200,30200,19500,24250,0.549682875
+Northeast Iowa Community College,Calmar,IA,Associate Degree,Plains,Rural: Distant,NA,NA,2210,13018,NA,5180,5460,6768.5,11000,0.604848485
+Northwest Iowa Community College,Sheldon,IA,Associate Degree,Plains,Rural: Fringe,NA,NA,765,15807,NA,5910,6210,6500,9500,0.5
+Des Moines University-Osteopathic Medical Center,Des Moines,IA,Entirely Graduate Degree,Plains,City: Midsize,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Iowa School of Beauty-Ottumwa,Ottumwa,IA,Certificate Degree,Plains,Town: Remote,NA,NA,53,NA,16560,NA,NA,10320,12000,NA
+Palmer College of Chiropractic,Davenport,IA,Bachelor Degree,Plains,City: Midsize,NA,NA,41,22230,NA,9096,9096,9114,9375,0.507246377
+PCI Academy-Ames,Ames,IA,Certificate Degree,Plains,City: Small,NA,NA,95,NA,15454,NA,NA,6333,8392,NA
+Saint Ambrose University,Davenport,IA,Bachelor Degree,Plains,City: Midsize,0.6081,24,2354,42922,NA,30016,30016,20858.5,25500,0.595194085
+St Luke's College,Sioux City,IA,Associate Degree,Plains,City: Small,0.2667,NA,274,24978,NA,20440,20440,12000,12180,0.92481203
+La James International College-Davenport,Davenport,IA,Certificate Degree,Plains,City: Midsize,NA,NA,80,NA,17644,NA,NA,6647,10999.5,NA
+La James International College-Iowa City,Iowa City,IA,Certificate Degree,Plains,City: Small,NA,NA,45,NA,20123,NA,NA,9500,10500,0.86746988
+Simpson College,Indianola,IA,Bachelor Degree,Plains,Town: Fringe,0.8386,24,1406,48169,NA,37663,37663,22117,27000,0.552
+Southeastern Community College,West Burlington,IA,Associate Degree,Plains,Town: Remote,NA,NA,1676,12159,NA,5400,5550,5500,10500,0.593904448
+Southwestern Community College,Creston,IA,Associate Degree,Plains,Town: Remote,NA,NA,879,13130,NA,5664,5888,6357,11250,0.54556962
+Capri College-Davenport,Davenport,IA,Certificate Degree,Plains,City: Midsize,NA,NA,128,NA,14325,NA,NA,7374,7600,NA
+Iowa School of Beauty-Sioux City,Sioux City,IA,Certificate Degree,Plains,City: Small,NA,NA,43,NA,16112,NA,NA,11856,NA,NA
+E Q School of Hair Design,Council Bluffs,IA,Certificate Degree,Plains,City: Small,NA,NA,48,NA,16126,NA,NA,6860,9290,NA
+Upper Iowa University,Fayette,IA,Bachelor Degree,Plains,Rural: Remote,0.5558,21,4058,41442,NA,29600,29600,16378,23000,0.677285319
+Waldorf University,Forest City,IA,Bachelor Degree,Plains,Town: Remote,0.7185,20,2053,32847,NA,21664,21664,10036.5,17187,0.443698732
+Wartburg College,Waverly,IA,Bachelor Degree,Plains,Town: Distant,0.769,24,1493,50153,NA,39730,39730,23250,27000,0.541411043
+Wartburg Theological Seminary,Dubuque,IA,Entirely Graduate Degree,Plains,City: Small,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+The Salon Professional Academy-Cedar Falls,Cedar Falls,IA,Certificate Degree,Plains,City: Small,NA,NA,48,NA,13484,NA,NA,6838,NA,0.488888889
+Western Iowa Tech Community College,Sioux City,IA,Certificate Degree,Plains,City: Small,NA,NA,3110,12396,NA,4200,4224,5500,9725,0.554477283
+William Penn University,Oskaloosa,IA,Bachelor Degree,Plains,Town: Remote,0.5379,19,1184,35896,NA,25000,25000,14750,25000,0.411564626
+Allen County Community College,Iola,KS,Associate Degree,Plains,Town: Remote,NA,NA,2423,11068,NA,3584,3584,3750,6966.5,0.63368669
+Baker University,Baldwin City,KS,Bachelor Degree,Plains,Town: Fringe,0.8571,23,1465,41870,NA,28960,28960,19500,24503,0.599246231
+Barton County Community College,Great Bend,KS,Associate Degree,Plains,Rural: Fringe,NA,NA,2180,14399,NA,3456,3456,5250,5834,0.596774194
+Benedictine College,Atchison,KS,Bachelor Degree,Plains,Town: Distant,0.9747,25,1826,42066,NA,28480,28480,20053,27000,0.498098859
+Bethany College,Lindsborg,KS,Bachelor Degree,Plains,Town: Remote,0.6664,21,710,41886,NA,26922,26922,10729,25000,0.340292276
+Bethel College-North Newton,North Newton,KS,Bachelor Degree,Plains,Town: Distant,0.5576,NA,503,40299,NA,27720,27720,15000,22919,0.472891566
+Bryan University,Topeka,KS,Associate Degree,Plains,City: Midsize,NA,NA,34,25070,NA,15400,15400,12667,20000,0.643564356
+Butler Community College,El Dorado,KS,Associate Degree,Plains,Town: Distant,NA,NA,7266,12343,NA,2940,5070,5500,11000,0.596389725
+Central Christian College of Kansas,McPherson,KS,Bachelor Degree,Plains,Town: Remote,0.3933,20,768,28652,NA,17240,17240,10959,25000,0.47734139
+Cloud County Community College,Concordia,KS,Associate Degree,Plains,Rural: Fringe,NA,NA,1080,10248,NA,3030,3270,5500,8000,0.625144175
+Coffeyville Community College,Coffeyville,KS,Associate Degree,Plains,Town: Remote,NA,NA,1044,9773,NA,2304,3872,5171,6500,0.376195537
+Colby Community College,Colby,KS,Associate Degree,Plains,Town: Remote,NA,NA,799,12786,NA,3450,5130,5540.5,9073.5,0.743333333
+Cowley County Community College,Arkansas City,KS,Associate Degree,Plains,Town: Distant,NA,NA,2697,12961,NA,2945,4712,4750,8000,0.598489616
+Dodge City Community College,Dodge City,KS,Associate Degree,Plains,Town: Remote,NA,NA,1103,11396,NA,2130,3510,5675,8750,0.414481898
+Donnelly College,Kansas City,KS,Certificate Degree,Plains,City: Midsize,NA,NA,294,14829,NA,7140,7140,6541,8250,0.808035714
+Emporia State University,Emporia,KS,Bachelor Degree,Plains,Town: Remote,0.8275,22,3499,18154,NA,6345,19918,12500,18568,0.627705628
+Flint Hills Technical College,Emporia,KS,Certificate Degree,Plains,Town: Remote,NA,NA,397,19085,NA,6040,6040,8480,9500,0.48
+Fort Hays State University,Hays,KS,Bachelor Degree,Plains,Town: Remote,0.8862,NA,12174,16753,NA,5009,14832,12500,20000,0.636003726
+Barclay College,Haviland,KS,Bachelor Degree,Plains,Rural: Remote,0.6697,NA,224,28990,NA,17720,17720,15200,22207.5,0.444444444
+Friends University,Wichita,KS,Bachelor Degree,Plains,City: Large,0.4801,22,1110,38141,NA,27565,27565,18979,25000,0.552262091
+Fort Scott Community College,Fort Scott,KS,Certificate Degree,Plains,Town: Remote,NA,NA,1137,10525,NA,2820,4590,5500,8717,0.477348066
+Garden City Community College,Garden City,KS,Associate Degree,Plains,Town: Remote,NA,NA,1516,12256,NA,3072,3680,4903,6606,0.438580528
+Haskell Indian Nations University,Lawrence,KS,Bachelor Degree,Plains,City: Small,0.8157,18,806,8958,NA,480,480,NA,NA,0.527577938
+Hays Academy of Hair Design,Hays,KS,Certificate Degree,Plains,Town: Remote,NA,NA,56,NA,17683,NA,NA,9776,9833,NA
+Hesston College,Hesston,KS,Associate Degree,Plains,Town: Distant,NA,NA,439,38138,NA,26318,26318,12000,12959,0.578313253
+Highland Community College,Highland,KS,Certificate Degree,Plains,Rural: Distant,NA,NA,1842,11596,NA,3057,3540,5500,9500,0.521551724
+Hutchinson Community College,Hutchinson,KS,Associate Degree,Plains,Town: Distant,NA,NA,3739,12381,NA,3072,4384,5500,8732.5,0.575121163
+Independence Community College,Independence,KS,Associate Degree,Plains,Town: Remote,NA,NA,577,10168,NA,3904,4320,3500,5720,0.375
+Johnson County Community College,Overland Park,KS,Associate Degree,Plains,City: Midsize,NA,NA,11418,15852,NA,2790,6600,4000,7533,0.572891698
+Concorde Career College-Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,0.8538,NA,516,NA,27450,NA,NA,9500,9500,0.872982821
+Kansas City Kansas Community College,Kansas City,KS,Certificate Degree,Plains,City: Midsize,NA,NA,4088,18372,NA,3248,8048,5950,8203,0.62528824
+Kansas Christian College,Overland Park,KS,Associate Degree,Plains,City: Midsize,NA,NA,135,16981,NA,7640,7640,4750,NA,0.347457627
+University of Kansas,Lawrence,KS,Bachelor Degree,Plains,City: Small,0.9338,26,18903,24824,NA,10824,26592,14275.5,20500,0.547597184
+Newman University,Wichita,KS,Bachelor Degree,Plains,City: Large,0.6384,22,1103,35030,NA,29200,29200,15500,20257,0.726126126
+Old Town Barber College-Wichita,Wichita,KS,Certificate Degree,Plains,City: Large,NA,NA,52,NA,19031,NA,NA,9833,13500,0.131578947
+Kansas State University,Manhattan,KS,Bachelor Degree,Plains,City: Small,0.9412,NA,18171,23262,NA,10135,25492,17500,22500,0.520871143
+Kansas Wesleyan University,Salina,KS,Bachelor Degree,Plains,Town: Remote,0.5365,22,671,41239,NA,28980,28980,12500,21000,0.424063116
+Washburn Institute of Technology,Topeka,KS,Certificate Degree,Plains,City: Midsize,0.5007,NA,1377,14904,NA,6912,6912,12327,17069.5,0.591224863
+Labette Community College,Parsons,KS,Associate Degree,Plains,Town: Remote,NA,NA,1566,11431,NA,2940,3690,5000,8271,0.684867395
+Manhattan Area Technical College,Manhattan,KS,Certificate Degree,Plains,City: Small,NA,NA,480,16501,NA,6030,6030,8937,10500,0.479518072
+Manhattan Christian College,Manhattan,KS,Bachelor Degree,Plains,City: Small,0.6432,22,282,27731,NA,15418,15418,10500,19625,0.425806452
+McPherson College,McPherson,KS,Bachelor Degree,Plains,Town: Remote,0.4847,22,688,39634,NA,27823,27823,15000,26000,0.368181818
+MidAmerica Nazarene University,Olathe,KS,Bachelor Degree,Plains,Suburb: Large,0.6562,21,1215,40179,NA,29670,29670,15000,18750,0.580683157
+Neosho County Community College,Chanute,KS,Certificate Degree,Plains,Town: Remote,NA,NA,1174,14034,NA,4692,4692,5605,10268,0.680634202
+North Central Kansas Technical College,Beloit,KS,Certificate Degree,Plains,Rural: Fringe,NA,NA,572,15920,NA,6019,6019,8750,9500,0.361247948
+Northwest Kansas Technical College,Goodland,KS,Certificate Degree,Plains,Town: Remote,NA,NA,395,NA,15827,NA,NA,6983,12000,0.231404959
+Ottawa University-Ottawa,Ottawa,KS,Bachelor Degree,Plains,Town: Distant,0.8045,20,670,40873,NA,28550,28550,12584,21257,0.62745098
+Ottawa University-Kansas City,Overland Park,KS,Bachelor Degree,Plains,City: Midsize,NA,NA,334,NA,NA,NA,NA,12584,21257,0.62745098
+Pittsburg State University,Pittsburg,KS,Bachelor Degree,Plains,Town: Distant,0.8721,22,5340,17748,NA,7100,18152,13500,20000,0.511989903
+Pratt Community College,Pratt,KS,Certificate Degree,Plains,Rural: Fringe,NA,NA,651,12867,NA,3392,3912,5500,7832,0.490740741
+University of Saint Mary,Leavenworth,KS,Bachelor Degree,Plains,Town: Fringe,0.4915,22,744,38195,NA,27720,27720,15000,22457,0.524752475
+Salina Area Technical College,Salina,KS,Certificate Degree,Plains,Town: Remote,NA,NA,243,10948,NA,7080,7080,5500,5500,0.393162393
+Seward County Community College,Liberal,KS,Certificate Degree,Plains,Town: Remote,NA,NA,1528,10516,NA,3008,4224,3612.5,5700,0.559502664
+Southwestern College,Winfield,KS,Bachelor Degree,Plains,Town: Distant,0.9688,21,1096,40741,NA,28750,28750,15775,25975,0.462643678
+Sterling College,Sterling,KS,Bachelor Degree,Plains,Rural: Distant,0.5247,20,612,35102,NA,24985,24985,14000,23973,0.373333333
+Tabor College,Hillsboro,KS,Bachelor Degree,Plains,Town: Remote,0.5318,21,632,41520,NA,27220,27220,15000,23250,0.451690821
+Washburn University,Topeka,KS,Bachelor Degree,Plains,City: Midsize,NA,NA,4926,18777,NA,7978,17918,12327,17069.5,0.591224863
+Wichita State University-Campus of Applied Sciences and Technology,Wichita,KS,Certificate Degree,Plains,Rural: Fringe,NA,NA,2388,16663,NA,7323,8735,6850,9500,0.542087542
+Wichita State University,Wichita,KS,Bachelor Degree,Plains,City: Large,0.938,24,10970,18924,NA,8432,17390,14000,21000,0.593413979
+Wichita Technical Institute,Wichita,KS,Certificate Degree,Plains,City: Large,NA,NA,938,NA,24021,NA,NA,12000,16500,0.48911353
+Academy College,Bloomington,MN,Certificate Degree,Plains,City: Small,NA,NA,56,NA,NA,17661,17661,18711,24216,0.298245614
+Alexandria Technical & Community College,Alexandria,MN,Associate Degree,Plains,Town: Remote,NA,NA,1496,17933,NA,5410,5410,8250.5,11750,0.45410628
+American Indian OIC Inc,Minneapolis,MN,Certificate Degree,Plains,City: Large,NA,NA,36,NA,14776,NA,NA,NA,NA,0.557142857
+Anoka Technical College,Anoka,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,1541,16486,NA,5584,5584,9500,12662.5,0.573033708
+Anoka-Ramsey Community College,Coon Rapids,MN,Associate Degree,Plains,Suburb: Large,NA,NA,5364,15061,NA,5059,5059,7944,14456,0.62031107
+Augsburg University,Minneapolis,MN,Bachelor Degree,Plains,City: Large,0.6458,22,2405,49649,NA,37615,37615,21500,27000,0.546448087
+Riverland Community College,Austin,MN,Certificate Degree,Plains,Town: Distant,NA,NA,1880,12877,NA,5570,5570,9000,NA,0.541991342
+Northwest Technical College,Bemidji,MN,Certificate Degree,Plains,Town: Remote,NA,NA,634,15839,NA,5480,5480,7362,12000,0.688442211
+Bemidji State University,Bemidji,MN,Bachelor Degree,Plains,Town: Remote,0.662,22,4399,20013,NA,8677,8677,12456,20433,0.598165903
+Bethany Lutheran College,Mankato,MN,Bachelor Degree,Plains,City: Small,0.7912,23,523,35619,NA,26830,26830,17000,23250,0.553784861
+Bethel University,Saint Paul,MN,Bachelor Degree,Plains,Suburb: Large,0.835,24,2777,48485,NA,36210,36210,19475,23445,0.635702746
+Bethel Seminary-St Paul,Saint Paul,MN,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,19475,23445,0.635702746
+Central Lakes College-Brainerd,Brainerd,MN,Associate Degree,Plains,Town: Remote,NA,NA,1909,16929,NA,5494,5494,8263.5,9843,0.495132128
+Carleton College,Northfield,MN,Bachelor Degree,Plains,Town: Distant,0.212,33,2023,66490,NA,52782,52782,19401,20000,0.45945946
+Concordia College at Moorhead,Moorhead,MN,Bachelor Degree,Plains,Suburb: Midsize,0.616,25,1980,47672,NA,38378,38378,24250,27000,0.581032413
+Concordia University-Saint Paul,Saint Paul,MN,Bachelor Degree,Plains,City: Large,0.5487,NA,2575,31603,NA,21750,21750,15000,21198,0.607252612
+Dakota County Technical College,Rosemount,MN,Certificate Degree,Plains,Rural: Fringe,NA,NA,2139,15458,NA,5713,5713,9500,10363,0.403701165
+Martin Luther College,New Ulm,MN,Bachelor Degree,Plains,Town: Distant,0.7061,25,797,24580,NA,14680,14680,14800,21500,0.472789116
+Lake Superior College,Duluth,MN,Associate Degree,Plains,City: Small,NA,NA,3285,16036,NA,5153,9483,8517,13384,0.535177099
+Cosmetology Careers Unlimited College of Hair Skin and Nails,Duluth,MN,Certificate Degree,Plains,City: Small,NA,NA,26,NA,16163,NA,NA,7160,NA,NA
+Duluth Business University,Duluth,MN,Associate Degree,Plains,City: Small,NA,NA,46,31099,NA,18975,18975,20962,28341,NA
+Minnesota State Community and Technical College,Fergus Falls,MN,Associate Degree,Plains,Town: Remote,NA,NA,4191,14878,NA,5335,5335,8405,11125,0.546787274
+Minnesota West Community and Technical College,Granite Falls,MN,Certificate Degree,Plains,Town: Remote,NA,NA,1826,15431,NA,5692,10838,8979,12000,0.565471226
+Gustavus Adolphus College,Saint Peter,MN,Bachelor Degree,Plains,Town: Fringe,0.6783,NA,2170,54204,NA,44080,44080,26250,27000,0.541570439
+Hamline University,Saint Paul,MN,Bachelor Degree,Plains,City: Large,0.6911,23,2132,48293,NA,40332,40332,19500,24400,0.632007233
+Hazelden Betty Ford Graduate School of Addiction Studies,Center City,MN,Entirely Graduate Degree,Plains,Rural: Fringe,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Hennepin Technical College,Brooklyn Park,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,4286,15977,NA,5198,5198,9500,12000,0.385503065
+Hibbing Community College,Hibbing,MN,Associate Degree,Plains,Town: Remote,NA,NA,893,14340,NA,5310,6491,8250,11081,0.48441247
+Aveda Institute-Minneapolis,Minneapolis,MN,Certificate Degree,Plains,City: Large,NA,NA,443,NA,21614,NA,NA,6333,7443,0.94398682
+Inver Hills Community College,Inver Grove Heights,MN,Associate Degree,Plains,Suburb: Large,NA,NA,3269,14685,NA,5332,5332,8155,12750,0.595291987
+Itasca Community College,Grand Rapids,MN,Associate Degree,Plains,Town: Remote,NA,NA,845,15671,NA,5325,6507,6500,11000,0.459635417
+Luther Seminary,Saint Paul,MN,Entirely Graduate Degree,Plains,City: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Macalester College,Saint Paul,MN,Bachelor Degree,Plains,City: Large,0.4058,31,2116,64007,NA,52464,52464,20000,21500,0.593385214
+South Central College,North Mankato,MN,Associate Degree,Plains,City: Small,NA,NA,2393,14521,NA,5417,5417,8250,13000,0.516
+Minnesota State University-Mankato,Mankato,MN,Bachelor Degree,Plains,City: Small,0.6096,22,11966,18993,NA,8164,16216,14897.5,22198,0.569521691
+Mayo Clinic College of Medicine and Science,Rochester,MN,Entirely Graduate Degree,Plains,City: Midsize,NA,NA,NA,NA,NA,NA,NA,9060.5,9610.5,0.785714286
+Mayo Clinic School of Health Sciences,Rochester,MN,Certificate Degree,Plains,City: Midsize,NA,NA,215,NA,NA,NA,NA,9060.5,9610.5,0.785714286
+Argosy University-Twin Cities,Eagan,MN,Associate Degree,Plains,City: Small,NA,NA,1065,24238,NA,13438,13438,13437.5,30481,0.649788711
+Mesabi Range College,Virginia,MN,Certificate Degree,Plains,Town: Remote,NA,NA,724,10535,NA,5329,6511,8250,11697,0.448105437
+Metropolitan State University,Saint Paul,MN,Bachelor Degree,Plains,City: Large,0.5554,NA,7080,20800,NA,7859,14960,13500,18000,0.60865665
+University of Minnesota-Twin Cities,Minneapolis,MN,Bachelor Degree,Plains,City: Large,0.4959,29,31535,25790,NA,14417,26603,17000,20000,0.559390667
+University of Minnesota-Crookston,Crookston,MN,Bachelor Degree,Plains,Town: Distant,0.687,22,1797,22716,NA,11814,11814,14487.5,20467.5,0.489685125
+Minneapolis Business College,Roseville,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,177,18921,NA,15100,15100,11961,12000,0.625
+Minneapolis College of Art and Design,Minneapolis,MN,Bachelor Degree,Plains,City: Large,0.5853,23,675,47779,NA,37812,37812,19750,25800,0.661498708
+Minneapolis Community and Technical College,Minneapolis,MN,Associate Degree,Plains,City: Large,NA,NA,6218,17587,NA,5396,5396,9604,17000,0.548579285
+Herzing University-Minneapolis,St. Louis Park,MN,Associate Degree,Plains,Suburb: Large,0.766,NA,372,26465,NA,13850,13850,11766,23139.5,0.813546519
+Minnesota School of Cosmetology-Woodbury Campus,WOODBURY,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,138,NA,18605,NA,NA,9594,10194,0.964179105
+University of Minnesota-Duluth,Duluth,MN,Bachelor Degree,Plains,City: Small,0.7661,24,9199,23913,NA,13344,18462,17000,24250,0.488211174
+University of Minnesota-Morris,Morris,MN,Bachelor Degree,Plains,Town: Remote,0.6378,25,1554,23363,NA,13072,15092,13932,19295,0.589205397
+Model College of Hair Design,Saint Cloud,MN,Certificate Degree,Plains,City: Small,NA,NA,82,NA,14777,NA,NA,7139,8280,NA
+Minnesota State University Moorhead,Moorhead,MN,Bachelor Degree,Plains,Suburb: Midsize,0.6039,23,4834,20067,NA,8468,15878,17225,22579,0.596189591
+North Hennepin Community College,Brooklyn Park,MN,Associate Degree,Plains,Suburb: Large,NA,NA,5124,14271,NA,4420,4420,8625,14750,0.59447983
+National American University-Roseville,Roseville,MN,Associate Degree,Plains,Suburb: Large,NA,NA,99,NA,NA,15000,15000,14765,30223,0.758220503
+Normandale Community College,Bloomington,MN,Associate Degree,Plains,City: Small,NA,NA,7222,16045,NA,5790,5790,7331.5,12000,0.559843786
+North Central University,Minneapolis,MN,Bachelor Degree,Plains,City: Large,0.9074,23,893,33232,NA,23480,23480,19625,25062.5,0.568228106
+Northland Community and Technical College,Thief River Falls,MN,Certificate Degree,Plains,Town: Remote,NA,NA,2300,15108,NA,5549,5549,8542,13300,0.517553794
+University of Northwestern-St Paul,Saint Paul,MN,Bachelor Degree,Plains,Suburb: Large,0.934,24,1827,41627,NA,30794,30794,18875.5,21594,0.5782881
+Northwestern Health Sciences University,Bloomington,MN,Bachelor Degree,Plains,City: Small,NA,NA,43,17596,NA,10684,10684,8300,8300,0.596244132
+Oak Hills Christian College,Bemidji,MN,Bachelor Degree,Plains,Town: Remote,0.2653,9,94,28071,NA,17314,17314,11750,25250,0.458333333
+Pine Technical & Community College,Pine City,MN,Certificate Degree,Plains,Town: Remote,NA,NA,686,15197,NA,4066,7741,11000,17765.5,0.567107751
+Rainy River Community College,International Falls,MN,Associate Degree,Plains,Town: Remote,NA,NA,176,13077,NA,5325,6507,5500,7100,0.441176471
+Rochester Community and Technical College,Rochester,MN,Associate Degree,Plains,City: Midsize,NA,NA,4204,18631,NA,5636,5636,8500,14250,0.573212259
+College of Saint Benedict,Saint Joseph,MN,Bachelor Degree,Plains,Suburb: Midsize,0.8058,25,1937,55095,NA,43738,43738,25411,27000,NA
+St Cloud Technical and Community College,Saint Cloud,MN,Associate Degree,Plains,City: Small,NA,NA,3765,13026,NA,5359,5359,7288.5,12000,0.514141414
+Saint Cloud State University,Saint Cloud,MN,Bachelor Degree,Plains,City: Small,0.8578,21,9676,19068,NA,8228,16462,13374.5,21997,0.549813201
+Saint Johns University,Collegeville,MN,Bachelor Degree,Plains,Rural: Fringe,0.8023,25,1720,53964,NA,43356,43356,25000,27000,NA
+Saint Mary's University of Minnesota,Winona,MN,Bachelor Degree,Plains,Town: Distant,0.6438,23,1471,43897,NA,33560,33560,17376,23250,0.597074468
+St Olaf College,Northfield,MN,Bachelor Degree,Plains,Town: Distant,0.4322,28,3004,56160,NA,46000,46000,24500,27000,0.542669584
+Crown College,Saint Bonifacius,MN,Bachelor Degree,Plains,Rural: Fringe,0.512,22,853,37926,NA,25430,25430,17340,24500,0.521472393
+The College of Saint Scholastica,Duluth,MN,Bachelor Degree,Plains,City: Small,0.6825,23,2626,47344,NA,36212,36212,16808,20197,0.755102041
+University of St Thomas,Saint Paul,MN,Bachelor Degree,Plains,City: Large,0.8416,27,6085,52586,NA,41133,41133,21500,25000,0.488041002
+Empire Beauty School-Bloomington,Bloomington,MN,Certificate Degree,Plains,City: Small,NA,NA,121,NA,18320,NA,NA,8028,11522,0.951546994
+St Catherine University,Saint Paul,MN,Bachelor Degree,Plains,City: Large,0.7013,23,3100,47149,NA,38170,38170,21500,26938,0.95110316
+Rasmussen College-Minnesota,St. Cloud,MN,Associate Degree,Plains,City: Small,NA,NA,3848,21689,NA,10935,10935,9774,18254,0.814446146
+Saint Paul College,Saint Paul,MN,Certificate Degree,Plains,City: Large,NA,NA,5471,17268,NA,5560,5560,8641,11250,0.538353929
+Southwest Minnesota State University,Marshall,MN,Bachelor Degree,Plains,Town: Remote,0.6163,21,2133,20068,NA,8610,8610,13200,20500,0.597701149
+Summit Academy Opportunities Industrialization Center,Minneapolis,MN,Certificate Degree,Plains,City: Large,NA,NA,371,NA,12144,NA,NA,NA,NA,0.427892235
+United Theological Seminary of the Twin Cities,New Brighton,MN,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Vermilion Community College,Ely,MN,Associate Degree,Plains,Town: Remote,NA,NA,459,15081,NA,5325,6506,6500,12000,0.248780488
+Dunwoody College of Technology,Minneapolis,MN,Associate Degree,Plains,City: Large,0.7275,NA,1288,26772,NA,21610,21610,12000,15649,0.166666667
+Ridgewater College,Willmar,MN,Associate Degree,Plains,Town: Remote,NA,NA,2678,16314,NA,5759,5759,8607.5,12000,0.514917696
+Minnesota State College Southeast,Winona,MN,Certificate Degree,Plains,Town: Distant,NA,NA,1388,17315,NA,5630,5630,9500,11500,0.536514119
+Winona State University,Winona,MN,Bachelor Degree,Plains,Town: Distant,0.665,23,7308,21547,NA,9379,15302,16815.5,23206,0.664431576
+Mitchell Hamline School of Law,Saint Paul,MN,Entirely Graduate Degree,Plains,City: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Century College,White Bear Lake,MN,Associate Degree,Plains,Suburb: Large,NA,NA,7502,14643,NA,5417,5417,9254.5,14148.5,0.560162021
+Aquinas Institute of Theology,Saint Louis,MO,Entirely Graduate Degree,Plains,City: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Avila University,Kansas City,MO,Bachelor Degree,Plains,City: Large,0.3886,21,1229,37233,NA,28020,28020,17770,26000,0.629274966
+Baptist Bible College,Springfield,MO,Bachelor Degree,Plains,City: Midsize,NA,NA,268,21481,NA,13850,13850,12125,25250,0.564593301
+House of Heavilin Beauty College-Blue Springs,Blue Springs,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,111,NA,20364,NA,NA,6333,7917,0.958064516
+Cox College,Springfield,MO,Bachelor Degree,Plains,City: Midsize,1,NA,730,20742,NA,11410,11410,17381,19576,0.854545455
+Calvary University,Kansas City,MO,Bachelor Degree,Plains,City: Large,0.7436,22,222,19130,NA,11152,11152,10334,21392,0.403508772
+Cape Girardeau Career and Technology Center,Cape Girardeau,MO,Certificate Degree,Plains,City: Small,NA,NA,248,NA,16875,NA,NA,9500,9500,0.751219512
+Central Christian College of the Bible,Moberly,MO,Bachelor Degree,Plains,Town: Distant,0.2135,19,226,24268,NA,13900,13900,7971.5,16100,0.361290323
+Central Methodist University-College of Liberal Arts and Sciences,Fayette,MO,Bachelor Degree,Plains,Town: Distant,0.9561,23,1059,36760,NA,23770,23770,12500,16950,0.689956332
+University of Central Missouri,Warrensburg,MO,Bachelor Degree,Plains,Town: Distant,0.836,22,8589,18309,NA,7520,14150,14826.5,21500,0.588794154
+Grand River Technical School,Chillicothe,MO,Certificate Degree,Plains,Town: Remote,0.9091,NA,71,NA,13386,NA,NA,NA,NA,NA
+Cleveland University-Kansas City,Overland Park,KS,Bachelor Degree,Plains,City: Midsize,0.8,NA,39,33556,NA,14800,14800,10500,10500,0.553846154
+Columbia Area Career Center,Columbia,MO,Certificate Degree,Plains,City: Midsize,0.8214,NA,57,NA,23485,NA,NA,5900,NA,0.795081967
+Columbia College,Columbia,MO,Bachelor Degree,Plains,City: Midsize,NA,NA,11975,33112,NA,21936,21936,12993,22250,0.623674218
+Conception Seminary College,Conception,MO,Bachelor Degree,Plains,Rural: Distant,1,23,67,35522,NA,21526,21526,18137,NA,NA
+Concordia Seminary,Saint Louis,MO,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,8000,NA,NA
+Cottey College,Nevada,MO,Associate Degree,Plains,Town: Remote,0.6409,21,265,29885,NA,20200,20200,9207.5,12000,NA
+Covenant Theological Seminary,Saint Louis,MO,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Crowder College,Neosho,MO,Associate Degree,Plains,Town: Distant,NA,NA,3344,9751,NA,2664,3840,5248,8000,0.626364739
+Culver-Stockton College,Canton,MO,Bachelor Degree,Plains,Rural: Remote,0.5466,21,1029,37135,NA,26040,26040,16753,27000,0.523489933
+Drury University,Springfield,MO,Bachelor Degree,Plains,City: Midsize,0.6608,26,2971,36249,NA,27015,27015,13821,23000,0.603750756
+East Central College,Union,MO,Associate Degree,Plains,Rural: Fringe,NA,NA,2163,12216,NA,2592,4896,7178.5,9625,0.661712668
+Eden Theological Seminary,Webster Groves,MO,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Elaine Steven Beauty College,Saint Louis,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,122,NA,16818,NA,NA,9500,12464,NA
+Pinnacle Career Institute-South Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,235,NA,21381,NA,NA,10644,12546,0.628421053
+Evangel University,Springfield,MO,Bachelor Degree,Plains,City: Midsize,0.9935,22,1627,34771,NA,22745,22745,17250,24249.5,0.550573514
+Fontbonne University,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.9236,23,874,37775,NA,25460,25460,21500,25000,0.660091047
+Four Rivers Career Center,Washington,MO,Certificate Degree,Plains,Town: Distant,NA,NA,33,18601,NA,14441,14441,9500,9500,NA
+Ozarks Technical Community College,Springfield,MO,Associate Degree,Plains,City: Midsize,NA,NA,10618,11214,NA,3192,5352,7000,11657,0.594321594
+Hannibal-LaGrange University,Hannibal,MO,Bachelor Degree,Plains,Town: Remote,0.5455,NA,744,32635,NA,21810,21810,13062,19050,0.679775281
+Harris-Stowe State University,Saint Louis,MO,Bachelor Degree,Plains,City: Large,NA,NA,1423,12872,NA,5340,9973,9771,29750,0.670132325
+Hickey College,Saint Louis,MO,Associate Degree,Plains,Suburb: Large,NA,NA,246,21795,NA,13920,13920,11705.5,12000,0.720977597
+House of Heavilin Beauty College-Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,27,NA,15983,NA,NA,8051.5,11300,NA
+Independence College of Cosmetology,Independence,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,65,NA,17371,NA,NA,9715,11664.5,NA
+Jefferson College,Hillsboro,MO,Associate Degree,Plains,Rural: Fringe,NA,NA,4182,10021,NA,3300,6450,5560,9902,0.609767442
+Paul Mitchell the School-Missouri Columbia,Columbia,MO,Certificate Degree,Plains,City: Midsize,NA,NA,79,NA,18109,NA,NA,9500,10541.5,NA
+Barnes-Jewish College Goldfarb School of Nursing,Saint Louis,MO,Bachelor Degree,Plains,City: Large,NA,NA,569,NA,NA,NA,NA,18176,19062,0.875
+Kansas City Art Institute,Kansas City,MO,Bachelor Degree,Plains,City: Large,0.6719,24,659,51509,NA,37800,37800,23493,27000,0.733893557
+Kenrick Glennon Seminary,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.7059,NA,48,NA,NA,21540,21540,NA,NA,NA
+A T Still University of Health Sciences,Kirksville,MO,Entirely Graduate Degree,Plains,Town: Remote,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Lake Career and Technical Center,Camdenton,MO,Certificate Degree,Plains,Rural: Fringe,NA,NA,15,7050,NA,4500,4500,NA,NA,NA
+Lex La-Ray Technical Center,Lexington,MO,Certificate Degree,Plains,Town: Distant,0.76,NA,31,NA,18927,NA,NA,14727,NA,NA
+Lincoln University,Jefferson City,MO,Bachelor Degree,Plains,City: Small,NA,NA,2045,16516,NA,7632,14172,10500,23732.5,0.564926372
+Lindenwood University,Saint Charles,MO,Bachelor Degree,Plains,City: Small,0.7375,23,6807,29322,NA,16960,16960,19500,26529,0.577721661
+State Technical College of Missouri,Linn,MO,Associate Degree,Plains,Rural: Distant,NA,NA,1135,15684,NA,6060,11040,8750,10421,0.182875264
+Logan University,Chesterfield,MO,Bachelor Degree,Plains,Suburb: Large,1,21,98,NA,NA,6860,6860,7048,6250,0.521367521
+Metropolitan Community College-Kansas City,Kansas City,MO,Associate Degree,Plains,City: Large,NA,NA,14276,11556,NA,3120,7140,5251,8937,0.60371301
+Lutheran School of Nursing,Saint Louis,MO,Certificate Degree,Plains,City: Large,1,NA,212,23229,NA,10598,10598,NA,NA,NA
+Maryville University of Saint Louis,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.9188,24,3112,43329,NA,28470,28470,18616,24539,0.694421989
+Merrell University of Beauty Arts and Science,Jefferson City,MO,Certificate Degree,Plains,City: Small,NA,NA,55,NA,21877,NA,NA,9500,9500,NA
+Metro Business College-Cape Girardeau,Cape Girardeau,MO,Certificate Degree,Plains,City: Small,NA,NA,61,16392,NA,11375,11375,9500,11483.5,0.875457876
+Midwest Institute,Fenton,MO,Certificate Degree,Plains,Suburb: Large,0.9013,NA,270,NA,25021,NA,NA,9500,9500,0.881097561
+Midwestern Baptist Theological Seminary,Kansas City,MO,Bachelor Degree,Plains,City: Large,0.9455,23,417,16832,NA,7810,7810,7917,14251,0.260416667
+Mineral Area College,Park Hills,MO,Associate Degree,Plains,Town: Distant,NA,NA,2774,13530,NA,3520,6280,6565,8000,0.621983914
+Missouri Baptist University,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.545,21,1819,36242,NA,26020,26020,15250,22669,0.550401427
+Missouri Southern State University,Joplin,MO,Bachelor Degree,Plains,City: Small,0.9508,22,5426,14467,NA,6067,11568,9750,19550,0.607025607
+Missouri Valley College,Marshall,MO,Bachelor Degree,Plains,Town: Remote,0.5365,NA,1329,32169,NA,20200,20200,9500,27000,0.36281407
+Missouri Western State University,Saint Joseph,MO,Bachelor Degree,Plains,City: Small,NA,NA,4171,17481,NA,7570,13465,11525,22000,0.618903972
+University of Missouri-Columbia,Columbia,MO,Bachelor Degree,Plains,City: Midsize,0.7809,26,23455,25656,NA,9787,26506,17841,22000,0.543242492
+University of Missouri-Kansas City,Kansas City,MO,Bachelor Degree,Plains,City: Large,0.6415,25,7854,21120,NA,8011,19793,15000,21000,0.606357616
+Missouri University of Science and Technology,Rolla,MO,Bachelor Degree,Plains,Town: Remote,0.8351,28,6872,22045,NA,9246,25918,16998,24250,0.241320189
+University of Missouri-St Louis,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.7594,25,7362,21317,NA,9590,25505,16530,20460,0.609886837
+Moberly Area Community College,Moberly,MO,Associate Degree,Plains,Town: Distant,NA,NA,3635,11778,NA,3300,6600,6500,9612.5,0.592382496
+Hillyard Technical Center,Saint Joseph,MO,Certificate Degree,Plains,City: Small,0.4769,NA,106,NA,19774,NA,NA,9500,9500,0.717241379
+Nazarene Theological Seminary,Kansas City,MO,Entirely Graduate Degree,Plains,City: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Neosho Beauty College,Neosho,MO,Certificate Degree,Plains,Town: Distant,NA,NA,43,NA,11186,NA,NA,4584,5917,NA
+Truman State University,Kirksville,MO,Bachelor Degree,Plains,Town: Remote,0.67490000000000006,27,5241,20633,NA,7656,14440,17250,22402,0.599009901
+Northwest Missouri State University,Maryville,MO,Bachelor Degree,Plains,Town: Remote,0.7411,23,5065,18876,NA,7657,12908,13827,23557,0.6122856
+Ozark Christian College,Joplin,MO,Bachelor Degree,Plains,City: Small,0.4922,22,577,21031,NA,12720,12720,12500,19047,0.502040816
+College of the Ozarks,Point Lookout,MO,Bachelor Degree,Plains,Town: Distant,0.1348,24,1491,28912,NA,19130,19130,NA,NA,0.581730769
+Park University,Parkville,MO,Bachelor Degree,Plains,Suburb: Large,0.6904,NA,9442,23850,NA,10774,10774,11118,18125,0.541274817
+Stevens-The Institute of Business & Arts,Saint Louis,MO,Bachelor Degree,Plains,City: Large,NA,NA,121,21685,NA,12720,12720,21541,33233.5,0.86407767
+Poplar Bluff Technical Career Center,Poplar Bluff,MO,Certificate Degree,Plains,Town: Remote,NA,NA,21,NA,16270,NA,NA,8815,9500,0.844660194
+Ranken Technical College,Saint Louis,MO,Associate Degree,Plains,City: Large,NA,NA,1644,22042,NA,14457,14457,11800,12075,0.054545455
+Research College of Nursing,Kansas City,MO,Bachelor Degree,Plains,City: Large,NA,NA,129,NA,NA,NA,NA,12385,13000,0.872483222
+Rockhurst University,Kansas City,MO,Bachelor Degree,Plains,City: Large,0.7246,25,1623,49195,NA,36590,36590,16736,21500,0.621004566
+Rolla Technical Institute/Center,Rolla,MO,Certificate Degree,Plains,Town: Remote,0.9348,NA,113,NA,11994,NA,NA,9263,9270,0.622641509
+Saint Louis University,Saint Louis,MO,Bachelor Degree,Plains,City: Large,0.6443,28,7209,55055,NA,42166,42166,21500,25750,0.624110672
+Salem College of Hairstyling,Rolla,MO,Certificate Degree,Plains,Town: Remote,NA,NA,45,NA,9698,NA,NA,NA,NA,NA
+American College of Hair Design Inc,Sedalia,MO,Certificate Degree,Plains,Town: Remote,NA,NA,13,NA,15923,NA,NA,5500,NA,NA
+Sikeston Career and Technology Center,Sikeston,MO,Certificate Degree,Plains,Town: Distant,NA,NA,43,NA,24111,NA,NA,NA,NA,0.820895522
+Saint Louis Christian College,Florissant,MO,Bachelor Degree,Plains,Suburb: Large,0.24,18,78,18863,NA,11610,11610,21500,29000,0.293103448
+St. Louis College of Pharmacy,Saint Louis,MO,Bachelor Degree,Plains,City: Large,0.7202,26,448,43509,NA,29451,29451,19500,19500,0.64469914
+Saint Louis Community College,Bridgeton,MO,Associate Degree,Plains,Suburb: Large,NA,NA,16785,12051,NA,3285,6435,3500,6500,0.614713897
+Saint Paul School of Theology,Leawood,KS,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Southwest Baptist University,Bolivar,MO,Bachelor Degree,Plains,Town: Distant,0.732,23,2252,32924,NA,23358,23358,14000,21735,0.652011923
+Missouri State University-West Plains,West Plains,MO,Associate Degree,Plains,Town: Remote,NA,NA,1229,12502,NA,4230,7950,5500,10500,0.628571429
+Saint Luke's College of Health Sciences,Kansas City,MO,Bachelor Degree,Plains,City: Large,NA,NA,478,NA,NA,NA,NA,19929,21680,0.914814815
+St Louis College of Health Careers-St Louis,Saint Louis,MO,Certificate Degree,Plains,City: Large,NA,NA,258,NA,30893,NA,NA,9500,9668,0.924836601
+State Fair Community College,Sedalia,MO,Associate Degree,Plains,Town: Remote,NA,NA,3517,9595,NA,2880,5640,6000,10500,0.631240545
+Stephens College,Columbia,MO,Bachelor Degree,Plains,City: Midsize,0.5311,22,647,44234,NA,30344,30344,15811.5,25436,NA
+Southeast Missouri State University,Cape Girardeau,MO,Bachelor Degree,Plains,City: Small,0.8455,23,8910,18567,NA,7185,12720,13485,22185,0.595410005
+Missouri State University-Springfield,Springfield,MO,Bachelor Degree,Plains,City: Midsize,0.8404,24,17371,20482,NA,7306,14746,14750,22424,0.610305958
+Three Rivers College,Poplar Bluff,MO,Certificate Degree,Plains,Town: Remote,NA,NA,2672,15499,NA,3810,6390,7498,10500,0.639071176
+North Central Missouri College,Trenton,MO,Associate Degree,Plains,Town: Remote,NA,NA,1171,13864,NA,3510,6210,7245.5,10500,0.700564972
+Kansas City University of Medicine and Biosciences,Kansas City,MO,Entirely Graduate Degree,Plains,City: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Washington University in St Louis,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.1596,33,7253,69754,NA,51533,51533,18500,19500,0.534246575
+Webster University,Saint Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.5356,24,2954,41764,NA,27100,27100,17436,23225.5,0.604387827
+Westminster College,Fulton,MO,Bachelor Degree,Plains,Town: Distant,0.9014,24,764,38279,NA,25940,25940,19000,26000,0.455555556
+William Jewell College,Liberty,MO,Bachelor Degree,Plains,Suburb: Large,0.4763,26,928,46532,NA,33620,33620,20000,25000,0.595744681
+William Woods University,Fulton,MO,Bachelor Degree,Plains,Town: Distant,0.7486,23,919,37412,NA,23260,23260,13902,20545,0.731462926
+La'James International College,Fremont,NE,Certificate Degree,Plains,Town: Distant,NA,NA,17,NA,20955,NA,NA,10000,NA,NA
+Bellevue University,Bellevue,NE,Bachelor Degree,Plains,Suburb: Large,NA,NA,5665,16865,NA,7752,7752,13150,19271,0.594844679
+Clarkson College,Omaha,NE,Bachelor Degree,Plains,City: Large,0.6207,23,678,28645,NA,16290,16290,21000,24750,0.864559819
+Bryan College of Health Sciences,Lincoln,NE,Bachelor Degree,Plains,City: Large,0.5234,23,552,26646,NA,15190,15190,23479,25873,0.920502092
+Central Community College,Grand Island,NE,Certificate Degree,Plains,City: Small,NA,NA,3743,11693,NA,3000,4320,3500,5500,0.576500423
+Chadron State College,Chadron,NE,Bachelor Degree,Plains,Town: Remote,NA,NA,1916,19528,NA,7122,7152,9500,18500,0.577861163
+College of Hair Design-Downtown,Lincoln,NE,Certificate Degree,Plains,City: Large,NA,NA,88,NA,12604,NA,NA,12503,14499,0.711790393
+Concordia University-Nebraska,Seward,NE,Bachelor Degree,Plains,Town: Distant,0.7495,24,1233,39667,NA,31000,31000,15154.5,24781.5,0.488448845
+Creighton University,Omaha,NE,Bachelor Degree,Plains,City: Large,0.7201,28,4212,51590,NA,38750,38750,23000,25300,0.610714286
+Doane University-Arts & Sciences,Crete,NE,Bachelor Degree,Plains,Town: Distant,0.6518,23,1068,44554,NA,32250,32250,17000,23862.5,0.556331007
+Grace University,Omaha,NE,Bachelor Degree,Plains,City: Large,0.4591,20,220,33190,NA,23030,23030,12838.5,19500,0.584269663
+Hastings College,Hastings,NE,Bachelor Degree,Plains,Town: Distant,0.6833,23,1082,41063,NA,29200,29200,15000,26500,0.465930018
+CHI Health School of Radiologic Technology,Omaha,NE,Associate Degree,Plains,City: Large,NA,NA,15,NA,NA,NA,NA,NA,NA,NA
+Joseph's College Cosmetology,Lincoln,NE,Certificate Degree,Plains,City: Large,NA,NA,202,NA,21360,NA,NA,11950,14305.5,0.948979592
+University of Nebraska at Kearney,Kearney,NE,Bachelor Degree,Plains,Town: Distant,0.8175,22,4440,21605,NA,7294,13194,13000,20980,0.618660287
+Purdue University Global-Lincoln,Lincoln,NE,Bachelor Degree,Plains,City: Large,NA,NA,235,NA,NA,15352,15352,12638,28018.5,0.796749238
+Nebraska Methodist College of Nursing & Allied Health,Omaha,NE,Bachelor Degree,Plains,City: Large,0.6818,23,861,26226,NA,15980,15980,19166.5,23437,0.899253731
+Metropolitan Community College Area,Omaha,NE,Associate Degree,Plains,City: Large,NA,NA,7107,10251,NA,2970,4568,3378,6924.5,0.583781778
+Mid-Plains Community College,North Platte,NE,Associate Degree,Plains,Town: Remote,NA,NA,1205,10895,NA,3120,3930,5500,8466,0.562217195
+Midland University,Fremont,NE,Bachelor Degree,Plains,Town: Distant,0.643,21,1211,41473,NA,31630,31630,14985,27000,0.425948592
+Nebraska Christian College of Hope International University,Papillion,NE,Bachelor Degree,Plains,Rural: Fringe,0.4416,19,146,28750,NA,16830,16830,15500,25624.5,0.54368932
+University of Nebraska at Omaha,Omaha,NE,Bachelor Degree,Plains,City: Large,0.8653,23,12424,17935,NA,7630,20320,12354,19500,0.560827251
+Purdue University Global-Omaha,Omaha,NE,Bachelor Degree,Plains,City: Large,NA,NA,355,23836,NA,15352,15352,12638,28018.5,0.796749238
+Nebraska Indian Community College,Macy,NE,Associate Degree,Plains,Rural: Distant,NA,NA,126,17832,NA,4080,4080,NA,NA,0.567567568
+University of Nebraska Medical Center,Omaha,NE,Bachelor Degree,Plains,City: Large,NA,NA,849,NA,NA,NA,NA,15000,15000,0.866877972
+Nebraska Wesleyan University,Lincoln,NE,Bachelor Degree,Plains,City: Large,0.7126,25,1748,43262,NA,32894,32894,17225,24491,0.574115044
+University of Nebraska-Lincoln,Lincoln,NE,Bachelor Degree,Plains,City: Large,0.6438,26,20954,23278,NA,8978,24098,13875,21787.5,0.525061037
+Northeast Community College,Norfolk,NE,Associate Degree,Plains,Town: Remote,NA,NA,2693,12740,NA,3405,4545,5700,10261.5,0.5399137
+Peru State College,Peru,NE,Bachelor Degree,Plains,Rural: Distant,NA,NA,1388,18089,NA,7260,7260,12161,21573,0.540476191
+Summit Christian College,Gering,NE,Bachelor Degree,Plains,Town: Remote,0.4,20,25,14741,NA,6560,6560,NA,NA,NA
+College of Saint Mary,Omaha,NE,Bachelor Degree,Plains,City: Large,0.5608,NA,780,40604,NA,19950,19950,21000,26692.5,NA
+Southeast Community College Area,Lincoln,NE,Associate Degree,Plains,City: Large,NA,NA,6250,11480,NA,3570,4182,4818,10024,0.511116153
+Union College,Lincoln,NE,Bachelor Degree,Plains,City: Large,0.5995,23,747,33890,NA,23070,23070,17588.5,27000,0.62962963
+Nebraska College of Technical Agriculture,Curtis,NE,Associate Degree,Plains,Rural: Remote,NA,NA,260,16055,NA,5062,5062,13875,21787.5,0.525061037
+Wayne State College,Wayne,NE,Bachelor Degree,Plains,Town: Distant,NA,NA,2610,17371,NA,6848,11986,11330,19921.5,0.575362319
+Western Nebraska Community College,Scottsbluff,NE,Associate Degree,Plains,Town: Remote,NA,NA,1186,12248,NA,2760,2928,4400.5,6687,0.578294574
+York College,York,NE,Bachelor Degree,Plains,Town: Remote,0.4849,21,428,26750,NA,18760,18760,15000,26000,0.402489627
+Rasmussen College-North Dakota,Fargo,ND,Associate Degree,Plains,City: Midsize,NA,NA,525,22323,NA,10935,10935,9774,18254,0.814446146
+Bismarck State College,Bismarck,ND,Associate Degree,Plains,City: Small,NA,NA,2892,13144,NA,3832,8896,6500,10500,0.449157467
+Dickinson State University,Dickinson,ND,Bachelor Degree,Plains,Town: Remote,0.9897,21,1153,15790,NA,6554,9226,9745,17500,0.585034014
+Nueta Hidatsa Sahnish College,New Town,ND,Associate Degree,Plains,Rural: Remote,NA,NA,202,15478,NA,3870,3870,NA,NA,NA
+Josef's School of Hair Skin & Body-Grand Forks,Grand Forks,ND,Certificate Degree,Plains,City: Small,NA,NA,41,NA,16977,NA,NA,7915,11500,NA
+Headquarters Academy of Hair Design Inc,Minot,ND,Certificate Degree,Plains,Town: Remote,NA,NA,38,NA,16413,NA,NA,9500,12630,NA
+University of Jamestown,Jamestown,ND,Bachelor Degree,Plains,Town: Remote,0.6525,22,896,31760,NA,21158,21158,16736,26924,0.495475113
+Josef's School of Hair Design Inc-Fargo Downtown,Fargo,ND,Certificate Degree,Plains,City: Midsize,NA,NA,40,NA,16942,NA,NA,12000,12000,NA
+Lake Region State College,Devils Lake,ND,Associate Degree,Plains,Town: Remote,NA,NA,684,13703,NA,4336,4336,5500,7700,0.547457627
+Cankdeska Cikana Community College,Fort Totten,ND,Associate Degree,Plains,Rural: Distant,NA,NA,225,10208,NA,3300,3300,NA,NA,0.607843137
+University of Mary,Bismarck,ND,Bachelor Degree,Plains,Rural: Fringe,0.7635,24,2064,27400,NA,18224,18224,14714.5,21000,0.650952859
+Mayville State University,Mayville,ND,Bachelor Degree,Plains,Rural: Remote,0.481,21,825,16433,NA,6456,9084,11636,18539,0.575925926
+Minot State University,Minot,ND,Bachelor Degree,Plains,Town: Remote,0.6897,22,2466,15483,NA,6810,6810,12000,18349,0.620545073
+Moler Barber College,Fargo,ND,Certificate Degree,Plains,City: Midsize,NA,NA,9,NA,11793,NA,NA,NA,NA,NA
+University of North Dakota,Grand Forks,ND,Bachelor Degree,Plains,City: Small,0.8348,24,10351,19670,NA,8447,20047,16850,24489,0.477076238
+North Dakota State College of Science,Wahpeton,ND,Associate Degree,Plains,Town: Distant,NA,NA,2109,14675,NA,4880,11870,8750,12000,0.369314736
+Dakota College at Bottineau,Bottineau,ND,Associate Degree,Plains,Rural: Remote,NA,NA,454,14661,NA,4419,6223,6500,9675,0.496674058
+North Dakota State University-Main Campus,Fargo,ND,Bachelor Degree,Plains,City: Midsize,0.9159,24,11687,19874,NA,8666,20692,15000,22567,0.478885316
+Williston State College,Williston,ND,Associate Degree,Plains,Town: Remote,NA,NA,747,17147,NA,5163,5163,5500,7500,0.639618138
+JZ Trend Academy Paul Mitchell Partner School,Bismarck,ND,Certificate Degree,Plains,City: Small,NA,NA,35,NA,17555,NA,NA,8493,NA,NA
+Sitting Bull College,Fort Yates,ND,Certificate Degree,Plains,Rural: Remote,NA,NA,283,11975,NA,3910,3910,NA,NA,0.633333333
+Trinity Bible College and Graduate School,Ellendale,ND,Bachelor Degree,Plains,Rural: Remote,0.4236,21,183,27081,NA,16140,16140,11000,24473,0.413533835
+Turtle Mountain Community College,Belcourt,ND,Certificate Degree,Plains,Rural: Remote,NA,NA,511,15609,NA,2250,2250,NA,NA,0.554597701
+United Tribes Technical College,Bismarck,ND,Associate Degree,Plains,Suburb: Small,NA,NA,302,13898,NA,4252,4252,8563,9667,0.588555858
+Valley City State University,Valley City,ND,Bachelor Degree,Plains,Town: Remote,0.763,21,1010,17762,NA,7406,16579,11225,20856,0.535087719
+Augustana University,Sioux Falls,SD,Bachelor Degree,Plains,City: Midsize,0.678,26,1704,40613,NA,31960,31960,23259,26862,0.652459016
+Black Hills Beauty College,Rapid City,SD,Certificate Degree,Plains,City: Small,NA,NA,76,NA,13632,NA,NA,8690,10846.5,NA
+Black Hills State University,Spearfish,SD,Bachelor Degree,Plains,Town: Distant,0.8695,21,2736,19197,NA,8602,11602,12063.5,25500,0.621880998
+Dakota State University,Madison,SD,Bachelor Degree,Plains,Town: Distant,0.8436,23,2024,20501,NA,9147,12077,12892,24446.5,0.382960413
+Dakota Wesleyan University,Mitchell,SD,Bachelor Degree,Plains,Town: Remote,0.7604,22,774,37174,NA,27030,27030,19500,26917.5,0.575203252
+Headlines Academy Inc,Rapid City,SD,Certificate Degree,Plains,City: Small,NA,NA,101,NA,13060,NA,NA,7917,7917,NA
+Lake Area Technical Institute,Watertown,SD,Associate Degree,Plains,Town: Remote,NA,NA,1782,14968,NA,5264,5264,11000,12000,0.478745645
+Avera McKennan Hospital School of Radiologic Technology,Sioux Falls,SD,Certificate Degree,Plains,City: Midsize,NA,NA,20,NA,NA,NA,NA,NA,NA,NA
+Mitchell Technical Institute,Mitchell,SD,Associate Degree,Plains,Rural: Fringe,NA,NA,1005,15284,NA,6592,6592,10000,12000,0.303684879
+Mount Marty College,Yankton,SD,Bachelor Degree,Plains,Town: Remote,0.6652,22,566,37814,NA,26310,26310,17875,26538.5,0.684039088
+National American University-Rapid City,Rapid City,SD,Bachelor Degree,Plains,City: Small,NA,NA,1342,19161,NA,15000,15000,14765,30223,0.758220503
+National American University-Sioux Falls,Sioux Falls,SD,Associate Degree,Plains,City: Midsize,NA,NA,218,14976,NA,15000,15000,14765,30223,0.758220503
+Sioux Falls Seminary,Sioux Falls,SD,Entirely Graduate Degree,Plains,City: Midsize,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Northern State University,Aberdeen,SD,Bachelor Degree,Plains,Town: Remote,0.8783,22,1488,19697,NA,8280,11210,15000,25250,0.605333333
+Oglala Lakota College,Kyle,SD,Associate Degree,Plains,Rural: Remote,NA,NA,1152,9284,NA,2684,2684,NA,NA,0.565543071
+Presentation College,Aberdeen,SD,Bachelor Degree,Plains,Town: Remote,0.9628,20,749,30978,NA,19830,19830,14750,26000,0.671592775
+Avera Sacred Heart Hospital,Yankton,SD,Certificate Degree,Plains,Town: Remote,NA,NA,16,NA,NA,NA,NA,NA,NA,NA
+South Dakota School of Mines and Technology,Rapid City,SD,Bachelor Degree,Plains,City: Small,0.8339,27,2295,23835,NA,10400,14580,18251,27000,0.224619289
+South Dakota State University,Brookings,SD,Bachelor Degree,Plains,Town: Remote,0.9137,23,9704,26357,NA,8441,11689,15500,25000,0.555957495
+Sinte Gleska University,Mission,SD,Associate Degree,Plains,Rural: Remote,NA,NA,512,19049,NA,3154,3154,NA,NA,0.658986175
+University of Sioux Falls,Sioux Falls,SD,Bachelor Degree,Plains,City: Midsize,0.9201,23,1174,38174,NA,27980,27980,15000,22284.5,0.640854473
+Sanford Medical Center,Sioux Falls,SD,Certificate Degree,Plains,City: Midsize,NA,NA,23,NA,NA,NA,NA,NA,NA,NA
+Sisseton Wahpeton College,Sisseton,SD,Associate Degree,Plains,Rural: Remote,NA,NA,194,11010,NA,4410,4410,NA,NA,0.627118644
+Southeast Technical Institute,Sioux Falls,SD,Associate Degree,Plains,Rural: Fringe,NA,NA,2025,17474,NA,6110,6110,9500,12000,0.510349289
+Stewart School,Sioux Falls,SD,Certificate Degree,Plains,City: Midsize,NA,NA,103,NA,13303,NA,NA,6211,7277,NA
+University of South Dakota,Vermillion,SD,Bachelor Degree,Plains,Town: Distant,0.8691,23,6171,21224,NA,8772,12019,16512,25000,0.634171196
+Western Dakota Technical Institute,Rapid City,SD,Associate Degree,Plains,Rural: Fringe,NA,NA,831,17613,NA,7360,7360,7588,12000,0.523862375
+Vatterott College-Berkeley,Berkeley,MO,Associate Degree,Plains,Suburb: Large,NA,NA,545,24009,NA,11484,11484,15168,22900,0.402218115
+Metro Business College-Rolla,Rolla,MO,Associate Degree,Plains,Town: Remote,NA,NA,36,NA,NA,11375,11375,9500,11483.5,0.875457876
+Metro Business College-Jefferson City,Jefferson City,MO,Associate Degree,Plains,City: Small,NA,NA,49,16392,NA,11375,11375,9500,11483.5,0.875457876
+National American University-Independence,Independence,MO,Associate Degree,Plains,Suburb: Large,NA,NA,255,NA,NA,15000,15000,14765,30223,0.758220503
+Clinton Technical School,Clinton,MO,Certificate Degree,Plains,Town: Remote,1,NA,17,NA,22236,NA,NA,8490,11587.5,NA
+Purdue University Global-Davenport,Davenport,IA,Bachelor Degree,Plains,City: Midsize,NA,NA,25237,19555,NA,14263,14263,12638,28018.5,0.796749238
+Purdue University Global-Cedar Falls,Cedar Falls,IA,Associate Degree,Plains,City: Small,NA,NA,214,NA,NA,15352,15352,12638,28018.5,0.796749238
+Pike-Lincoln Technical Center,Eolia,MO,Certificate Degree,Plains,Rural: Remote,NA,NA,21,NA,11643,NA,NA,NA,NA,NA
+St Charles Community College,Cottleville,MO,Associate Degree,Plains,Suburb: Large,NA,NA,5983,7244,NA,2664,5376,4346,6750,0.611737089
+Grabber School of Hair Design,St. Louis,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,145,NA,16228,NA,NA,10392,13725,NA
+Mayo Clinic Graduate School of Biomedical Sciences,Rochester,MN,Entirely Graduate Degree,Plains,City: Midsize,NA,NA,NA,NA,NA,NA,NA,9060.5,9610.5,0.785714286
+Waynesville Career Center,Waynesville,MO,Certificate Degree,Plains,Town: Remote,NA,NA,43,NA,28008,NA,NA,8851,NA,0.743243243
+Capitol School of Hairstyling and Esthetics,Omaha,NE,Certificate Degree,Plains,City: Large,NA,NA,124,NA,15131,NA,NA,5500,5861,NA
+Mercy-St Luke's School of Radiologic Technology,Cedar Rapids,IA,Certificate Degree,Plains,City: Midsize,NA,NA,22,NA,NA,NA,NA,NA,NA,NA
+Purdue University Global-Des Moines,Urbandale,IA,Associate Degree,Plains,Suburb: Large,NA,NA,657,23836,NA,15352,15352,12638,28018.5,0.796749238
+Bryan University,Springfield,MO,Associate Degree,Plains,City: Midsize,NA,NA,291,25093,NA,15400,15400,15671,23000,0.657894737
+Vatterott College-Des Moines,Des Moines,IA,Associate Degree,Plains,City: Midsize,NA,NA,34,24207,NA,11982,11982,14458,20000,0.482319661
+Ross College-Quad Cities,Bettendorf,IA,Associate Degree,Plains,Suburb: Large,NA,NA,73,NA,25463,NA,NA,9161,9500,0.94210319
+Adler Graduate School,Minnetonka,MN,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Fond du Lac Tribal and Community College,Cloquet,MN,Associate Degree,Plains,Town: Fringe,NA,NA,699,14483,NA,5257,5257,9500,12500,0.5
+Faust Institute of Cosmetology-Spirit Lake,Spirit Lake,IA,Certificate Degree,Plains,Town: Remote,NA,NA,11,NA,13777,NA,NA,12000,NA,NA
+Vatterott College-Springfield,Springfield,MO,Certificate Degree,Plains,City: Midsize,NA,NA,162,24890,NA,11172,11172,15168,22900,0.402218115
+Vatterott College-Joplin,Joplin,MO,Certificate Degree,Plains,City: Small,NA,NA,140,24427,NA,11736,11736,15168,22900,0.402218115
+Vatterott College-Kansas City,Kansas City,MO,Associate Degree,Plains,City: Large,NA,NA,259,24838,NA,11826,11826,15168,22900,0.402218115
+Omaha School of Massage and Healthcare of Herzing University,Omaha,NE,Certificate Degree,Plains,City: Large,NA,NA,16,27833,NA,13850,13850,11766,23139.5,0.813546519
+Xenon International Academy-Omaha,Omaha,NE,Certificate Degree,Plains,City: Large,NA,NA,215,NA,17562,NA,NA,9500,12000,0.964285714
+Paul Mitchell the School-Wichita,Wichita,KS,Certificate Degree,Plains,City: Large,NA,NA,158,NA,18691,NA,NA,9833,12500,0.887640449
+Franklin Technology-MSSU,Joplin,MO,Certificate Degree,Plains,City: Small,NA,NA,131,NA,26365,NA,NA,7600,9500,0.683035714
+Capella University,Minneapolis,MN,Bachelor Degree,Plains,City: Large,NA,NA,9193,19836,NA,14250,14250,9500,26991,0.746927998
+Leech Lake Tribal College,Cass Lake,MN,Associate Degree,Plains,Rural: Distant,NA,NA,157,17573,NA,4198,4198,NA,NA,0.604743083
+Crave Beauty Academy,Wichita,KS,Certificate Degree,Plains,City: Large,NA,NA,140,NA,16173,NA,NA,9119.5,9500,NA
+Hastings Beauty School,Hastings,MN,Certificate Degree,Plains,Town: Fringe,NA,NA,31,NA,20222,NA,NA,10180,10180,NA
+Kirksville Area Technical Center,Kirksville,MO,Certificate Degree,Plains,Rural: Fringe,0.7273,NA,33,NA,20047,NA,NA,NA,NA,NA
+South Central Career Center,West Plains,MO,Certificate Degree,Plains,Town: Remote,NA,NA,69,NA,16299,NA,NA,5737,6802,0.64516129
+Saline County Career Center,Marshall,MO,Certificate Degree,Plains,Town: Remote,0.8333,NA,24,NA,23626,NA,NA,14015,NA,NA
+Warrensburg Area Career Center,Warrensburg,MO,Certificate Degree,Plains,Town: Distant,0.8095,NA,23,NA,NA,NA,NA,7151,9500,NA
+Nevada Regional Technical Center,Nevada,MO,Certificate Degree,Plains,Town: Remote,0.6667,NA,22,NA,11122,NA,NA,9500,NA,NA
+Cass Career Center,Harrisonville,MO,Certificate Degree,Plains,Town: Fringe,1,NA,32,NA,32268,NA,NA,9500,NA,NA
+Applied Technology Services,Sunset Hills,MO,Certificate Degree,Plains,Suburb: Large,0.2656,NA,169,NA,24392,NA,NA,14738,14750,0.949541284
+Central College of Cosmetology,Saint Robert,MO,Certificate Degree,Plains,Town: Remote,NA,NA,73,NA,9660,NA,NA,NA,NA,NA
+Southeast Missouri Hospital College of Nursing and Health Sciences,Cape Girardeau,MO,Associate Degree,Plains,City: Small,0.7647,22,204,30413,NA,17580,17580,15250,18750,0.847682119
+St Louis Hair Academy,Saint Louis,MO,Certificate Degree,Plains,City: Large,NA,NA,9,NA,20511,NA,NA,NA,NA,NA
+New Dimensions School of Hair Design,Joplin,MO,Certificate Degree,Plains,City: Small,NA,NA,21,NA,12432,NA,NA,9822,NA,NA
+House of Heavilin Beauty College-Raymore,Raymore,MO,Certificate Degree,Plains,Rural: Fringe,NA,NA,24,NA,19172,NA,NA,9833,10250,NA
+The Creative Center,Omaha,NE,Associate Degree,Plains,City: Large,0.6512,NA,51,41627,NA,27700,27700,19500,NA,0.717948718
+Northland Career Center,Platte City,MO,Certificate Degree,Plains,Town: Fringe,NA,NA,2,NA,13407,NA,NA,13275,NA,NA
+Little Priest Tribal College,Winnebago,NE,Associate Degree,Plains,Rural: Distant,NA,NA,100,18201,NA,5140,5140,NA,NA,0.594594595
+Myotherapy Institute,Lincoln,NE,Associate Degree,Plains,City: Large,NA,NA,23,24771,NA,16750,16750,11270,12697.5,NA
+White Earth Tribal and Community College,Mahnomen,MN,Associate Degree,Plains,Rural: Remote,NA,NA,74,16471,NA,4281,4281,NA,NA,0.554347826
+Vatterott College-Sunset Hills,Sunset Hills,MO,Associate Degree,Plains,Suburb: Large,NA,NA,315,24013,NA,11346,11346,15168,22900,0.402218115
+National American University-Bloomington,Bloomington,MN,Bachelor Degree,Plains,City: Small,NA,NA,68,NA,NA,15000,15000,14765,30223,0.758220503
+Missouri College of Cosmetology North,Springfield,MO,Certificate Degree,Plains,City: Midsize,NA,NA,84,NA,12343,NA,NA,7885,7885,NA
+National American University-Ellsworth AFB Extension,Ellsworth Air Force Base,SD,Bachelor Degree,Plains,Town: Fringe,NA,NA,165,14766,NA,6075,6075,14765,30223,0.758220503
+National American University-Brooklyn Center,Brooklyn Center,MN,Associate Degree,Plains,Suburb: Large,NA,NA,125,NA,NA,15000,15000,14765,30223,0.758220503
+Vatterott College-Wichita,Wichita,KS,Certificate Degree,Plains,City: Large,NA,NA,46,24295,NA,11237,11237,15168,22900,0.402218115
+Texas County Technical College,Houston,MO,Associate Degree,Plains,Rural: Remote,0.8571,NA,54,26791,NA,15869,15869,9500,12969,0.9
+Aviation Institute of Maintenance-Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,145,29978,NA,16757,16757,10436,20000,0.128404669
+St Louis College of Health Careers-Fenton,Fenton,MO,Certificate Degree,Plains,Suburb: Large,1,NA,421,NA,NA,NA,NA,9500,9668,0.924836601
+Grantham University,Lenexa,KS,Associate Degree,Plains,Suburb: Large,NA,NA,7752,16588,NA,6540,6540,9500,24806,0.654174241
+National American University-Overland Park,Overland Park,KS,Associate Degree,Plains,City: Midsize,NA,NA,207,NA,NA,15000,15000,14765,30223,0.758220503
+PCI Academy-Plymouth,Plymouth,MN,Certificate Degree,Plains,City: Small,NA,NA,94,NA,15516,NA,NA,6333,8392,NA
+Central Methodist University-College of Graduate and Extended Studies,Fayette,MO,Bachelor Degree,Plains,Town: Distant,0.4545,NA,1756,NA,NA,5760,5760,12500,16950,0.689956332
+Vatterott College-St Charles,St Charles,MO,Certificate Degree,Plains,City: Small,NA,NA,220,23505,NA,11580,11580,15168,22900,0.402218115
+L'Ecole Culinaire-St Louis,St. Louis,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,130,26847,NA,13310,13310,14458,20000,0.482319661
+American Academy of Acupuncture and Oriental Medicine,Roseville,MN,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+eClips School of Cosmetology and Barbering,Overland,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,24,NA,11552,NA,NA,NA,NA,0.298507463
+Universal College of Healing Arts,Omaha,NE,Certificate Degree,Plains,City: Large,NA,NA,45,28128,NA,15440,15440,15616,15625,0.824561404
+WellSpring School of Allied Health-Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,176,NA,24948,NA,NA,9470,9500,0.767295598
+Hair Academy 110,Kirksville,MO,Certificate Degree,Plains,Town: Remote,NA,NA,11,NA,14192,NA,NA,NA,NA,NA
+The Salon Professional Academy-Fargo,Fargo,ND,Certificate Degree,Plains,City: Midsize,NA,NA,103,NA,16332,NA,NA,9588,12000,NA
+Doane University-Graduate and Professional Studies,Lincoln,NE,Bachelor Degree,Plains,City: Large,NA,NA,592,21315,NA,10780,10780,17000,23862.5,0.556331007
+National American University-Zona Rosa,Kansas City,MO,Associate Degree,Plains,City: Large,NA,NA,149,22446,NA,15000,15000,14765,30223,0.758220503
+Carlson College of Massage Therapy,Anamosa,IA,Certificate Degree,Plains,Rural: Distant,NA,NA,45,NA,15643,NA,NA,6826.5,NA,0.846153846
+Z Hair Academy,Overland Park,KS,Certificate Degree,Plains,City: Midsize,NA,NA,159,NA,13104,NA,NA,9833,9833,NA
+Academy of Hair Design-Springfield,Springfield,MO,Certificate Degree,Plains,City: Midsize,NA,NA,200,NA,20554,NA,NA,7917,9500,0.6
+National American University-Wichita,Wichita,KS,Associate Degree,Plains,City: Large,NA,NA,130,NA,NA,15000,15000,14765,30223,0.758220503
+The Hair Academy,Bismarck,ND,Certificate Degree,Plains,City: Small,NA,NA,55,NA,13960,NA,NA,9500,9952,NA
+Pinnacle Career Institute-North Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,46,NA,21357,NA,NA,10644,12546,0.628421053
+Ottawa University-Online,Ottawa,KS,Bachelor Degree,Plains,Town: Distant,NA,NA,155,NA,NA,NA,NA,12584,21257,0.62745098
+Institute of Production and Recording,Minneapolis,MN,Associate Degree,Plains,City: Large,NA,NA,204,28655,NA,18750,18750,12000,15537,0.207253886
+Healing Arts Center,St. Louis,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,108,NA,NA,NA,NA,6365,6365,0.797385621
+Paul Mitchell the School-Springfield,Springfield,MO,Certificate Degree,Plains,City: Midsize,NA,NA,108,NA,19103,NA,NA,9500,10863,NA
+Urshan Graduate School of Theology,Florissant,MO,Entirely Graduate Degree,Plains,Suburb: Large,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Empire Beauty School-Spring Lake Park,Spring Lake Park,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,94,NA,17276,NA,NA,8915,11709,0.933764136
+College of Hair Design-East Campus,Lincoln,NE,Certificate Degree,Plains,City: Large,NA,NA,40,NA,19346,NA,NA,12503,14499,0.711790393
+Josef's School of Hair Skin & Body-Fargo,Fargo,ND,Certificate Degree,Plains,City: Midsize,NA,NA,68,NA,17262,NA,NA,7915,11500,NA
+University of Minnesota-Rochester,Rochester,MN,Bachelor Degree,Plains,City: Midsize,0.513,24,459,24940,NA,13352,13352,17000,20000,0.559390667
+Eric Fisher Academy,Wichita,KS,Certificate Degree,Plains,City: Large,NA,NA,171,NA,18316,NA,NA,9339,9339,NA
+CenterPoint Massage and Shiatsu Therapy School and Clinic,St Louis Park,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,93,NA,26263,NA,NA,9500,9500,0.75
+Avalon School of Cosmetology,Worthington,MN,Certificate Degree,Plains,Town: Remote,NA,NA,18,NA,17491,NA,NA,NA,NA,NA
+American Business and Technology University,St Joseph,MO,Associate Degree,Plains,City: Small,NA,NA,270,NA,25036,NA,NA,19562.5,22191,0.440816327
+City Vision University,Kansas City,MO,Bachelor Degree,Plains,City: Large,NA,NA,102,14100,NA,5600,5600,3600,NA,0.506493507
+Transformed Barber and Cosmetology Academy,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,38,NA,24032,NA,NA,6333,9500,0.697368421
+Nova Academy of Cosmetology,Rochester,MN,Certificate Degree,Plains,City: Midsize,NA,NA,74,NA,20033,NA,NA,7750,8768,NA
+Skin Institute,Saint Louis,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,72,NA,17017,NA,NA,7100,NA,NA
+The Salon Professional Academy-St Charles,St. Charles,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,131,NA,17146,NA,NA,7804,7804,NA
+Paul Mitchell the School-St Louis,St. Louis,MO,Certificate Degree,Plains,City: Large,NA,NA,191,NA,15368,NA,NA,9833,12500,0.949275362
+Evolve Beauty Academy,Washing,MO,Certificate Degree,Plains,Town: Distant,NA,NA,15,NA,12700,NA,NA,7999.5,NA,NA
+The Salon Professional Academy-Rochester,Rochester,MN,Certificate Degree,Plains,City: Midsize,NA,NA,22,NA,20222,NA,NA,10180,NA,NA
+American Trade School,Saint Ann,MO,Certificate Degree,Plains,Suburb: Large,NA,NA,80,NA,16642,NA,NA,11000,12672.5,NA
+The Salon Professional Academy-Iowa City,Iowa City,IA,Certificate Degree,Plains,City: Small,NA,NA,18,NA,14146,NA,NA,8000,12000,NA
+Entourage Institute of Beauty and Esthetics,Lenexa,KS,Certificate Degree,Plains,Suburb: Large,NA,NA,19,NA,20803,NA,NA,5500,7504,NA
+National American University-Lee's Summit,Lee's Summit,MO,Associate Degree,Plains,Suburb: Small,NA,NA,154,NA,NA,15000,15000,14765,30223,0.758220503
+Chamberlain University-Missouri,St. Louis,MO,Bachelor Degree,Plains,Suburb: Large,0.6,NA,544,25746,NA,19375,19375,18697.5,22893.5,0.896986301
+WellSpring School of Allied Health-Lawrence,Lawrence,KS,Certificate Degree,Plains,City: Small,NA,NA,24,NA,17083,NA,NA,9470,9500,0.767295598
+Minneapolis Media Institute,Edina,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,0,17096,NA,10265,10265,9500,14438,0.620714286
+Aveda Institute-Des Moines,West Des Moines,IA,Certificate Degree,Plains,City: Small,NA,NA,138,NA,17500,NA,NA,10155,11925.5,NA
+Bryan University,Columbia,MO,Associate Degree,Plains,City: Midsize,NA,NA,57,24464,NA,15447,15447,15671,23000,0.657894737
+Mitsu Sato Hair Academy,Overland Park,KS,Certificate Degree,Plains,City: Midsize,NA,NA,35,NA,16851,NA,NA,9500,13592,NA
+Paul Mitchell the School-Overland Park,Overland Park,KS,Certificate Degree,Plains,City: Midsize,NA,NA,198,NA,19690,NA,NA,9500,10751,0.952755906
+National American University-Bellevue,Bellevue,NE,Associate Degree,Plains,Suburb: Large,NA,NA,98,NA,NA,15000,15000,14765,30223,0.758220503
+National American University-Burnsville,Burnsville,MN,Associate Degree,Plains,Suburb: Large,NA,NA,44,15876,NA,15000,15000,14765,30223,0.758220503
+Hays Academy of Hair Design,Salina,KS,Certificate Degree,Plains,Town: Remote,NA,NA,50,NA,15014,NA,NA,9776,9833,NA
+Bellus Academy,Manhattan,KS,Certificate Degree,Plains,City: Small,NA,NA,191,NA,25271,NA,NA,7917,8769,0.904020752
+Minnesota School of Cosmetology-Plymouth Campus,WOODBURY,MN,Certificate Degree,Plains,Suburb: Large,NA,NA,101,NA,18787,NA,NA,9594,10194,0.964179105
+Shiloh University,Kalona,IA,Entirely Graduate Degree,Plains,Rural: Distant,NA,NA,18,NA,NA,4510,4510,NA,NA,NA
+Rasmussen College-Kansas,Topeka,KS,Associate Degree,Plains,Rural: Fringe,NA,NA,376,23508,NA,10935,10935,9774,18254,0.814446146
+Academy of Salon Professionals,Sedalia,MO,Certificate Degree,Plains,Town: Remote,NA,NA,53,NA,14450,NA,NA,9833,10883.5,0.828571429
+Carthage R9 School District-Carthage Technical Center,Carthage,MO,Certificate Degree,Plains,Town: Fringe,NA,NA,21,NA,23076,NA,NA,8880,NA,NA
+City Pointe Beauty Academy,Webb City,MO,Certificate Degree,Plains,Suburb: Small,NA,NA,93,NA,16247,NA,NA,6333,9416.5,NA
+L'Ecole Culinaire-Kansas City,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,124,22112,NA,14225,14225,14458,20000,0.482319661
+Vatterott College-ex'treme Institute by Nelly-St Louis,St. Louis,MO,Associate Degree,Plains,City: Large,NA,NA,245,22253,NA,12850,12850,15168,22900,0.402218115
+Midwest Technical Institute-Springfield,Springfield,MO,Certificate Degree,Plains,City: Midsize,NA,NA,313,NA,25978,NA,NA,9121,9500,0.504801356
+Lynnes Welding Training,Fargo,ND,Certificate Degree,Plains,City: Midsize,NA,NA,23,NA,16744,NA,NA,4134,NA,NA
+National American University-Rochester,Rochester,MN,Associate Degree,Plains,City: Midsize,NA,NA,81,NA,NA,15000,15000,14765,30223,0.758220503
+National American University-Wichita West,Wichita,KS,Associate Degree,Plains,City: Large,NA,NA,90,NA,NA,15000,15000,14765,30223,0.758220503
+DeVry University-Missouri,Kansas City,MO,Bachelor Degree,Plains,City: Large,1,NA,143,32078,NA,17252,17252,18371.5,35766.5,0.605904902
+University of Phoenix-Missouri,Saint Louis,MO,Bachelor Degree,Plains,Rural: Fringe,NA,NA,73,NA,NA,NA,NA,14750,31977,0.697281162
+Saint Gregory The Great Seminary,Seward,NE,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Bethany Global University,Bloomington,MN,Associate Degree,Plains,City: Small,0.961,NA,275,22570,NA,13850,13850,5500,9500,0.688172043
+Wisconsin Academy a Paul Mitchell Partner Group-PMTS Lincoln,Lincoln,NE,Certificate Degree,Plains,City: Large,NA,NA,58,NA,21583,NA,NA,9750,12000,NA
+Beyond The Basics School of Cosmetology,Marshfield,MO,Certificate Degree,Plains,Rural: Fringe,NA,NA,22,NA,14326,NA,NA,7972.5,NA,NA
+Academy of Cosmetology and Esthetics,Nevada,MO,Certificate Degree,Plains,Town: Remote,NA,NA,27,NA,8948,NA,NA,NA,NA,NA
+Ea La Mar's Cosmetology & Barber College,Kansas City,MO,Certificate Degree,Plains,City: Large,NA,NA,31,NA,20240,NA,NA,NA,NA,0.44
+Lebanon College of Cosmetology,Lebanon,MO,Certificate Degree,Plains,Town: Remote,NA,NA,14,NA,12159,NA,NA,NA,NA,NA
+Bolivar Technical College,Bolivar,MO,Certificate Degree,Plains,Town: Distant,0.7778,NA,119,26089,NA,15869,15869,NA,NA,NA
+Kansas City University of Medicine and Biosciences-Joplin,Joplin,MO,Entirely Graduate Degree,Plains,City: Small,NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Purdue University Global-St. Louis,St. Louis,MO,Bachelor Degree,Plains,Suburb: Large,NA,NA,263,NA,NA,14263,14263,NA,NA,NA
+National American University-Garden City,Garden City,KS,Bachelor Degree,Plains,Town: Remote,NA,NA,48,NA,NA,15000,15000,NA,NA,NA
+National American University-Watertown,Watertown,SD,Bachelor Degree,Plains,Town: Remote,NA,NA,69,NA,NA,15000,15000,NA,NA,NA
+Graceland University - Independence,Independence,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10560,NA,17201,22832,0.547762999
+Baker University School of Nursing,Topeka,KS,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,NA,NA,19500,24503,0.599246231
+Baker University School of Professional and Graduate Studies and Graduate School of Education,Overland Park,KS,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,12840,NA,19500,24503,0.599246231
+Coffeyville Technical Campus,Coffeyville,KS,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,2304,3872,5171,6500,0.376195537
+Columbus Technical Campus,Columbus,KS,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,2304,3872,5171,6500,0.376195537
+Anoka-Ramsey Community College-Cambridge Campus,Cambridge,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5059,NA,7944,14456,0.62031107
+Central Lakes College-Staples Campus,Staples,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5454,NA,8263.5,9843,0.495132128
+M State - Detroit Lakes Campus,Detroit Lakes,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5303,NA,8405,11125,0.546787274
+M State - Moorhead Campus,Moorhead,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5444,NA,8405,11125,0.546787274
+M State - Wadena Campus,Wadena,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5273,NA,8405,11125,0.546787274
+South Central College-Faribault,Faribault,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5417,NA,8250,13000,0.516
+Mesabi Range College,Eveleth,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5329,6511,8250,11697,0.448105437
+Northland Community and Technical College - East Grand Forks,East Grand Forks,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5549,NA,8542,13300,0.517553794
+Rasmussen College-Bloomington,Bloomington,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
+Rasmussen College-Eagan,Eagan,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
+Rasmussen College-Mankato,Mankato,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
+Rasmussen College-Brooklyn Park,Brooklyn Park,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
+Rasmussen College-Lake Elmo/Woodbury,Lake Elmo,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
+Rasmussen College-Blaine,Blaine,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
+Minnesota State CollegeSoutheast-Red Wing Campus,Red Wing,MN,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5630,NA,9500,11500,0.536514119
+Columbia College - Kansas City,Kansas City,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Columbia College - Fort Leonard Wood,Fort Leonard Wood,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Columbia College - Jefferson City,Jefferson City,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Columbia College - Lake Ozark,Osage Beach,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Columbia College - Saint Louis,Saint Louis,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Columbia College - Springfield,Springfield,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Columbia College - Rolla,Rolla,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,6840,NA,12993,22250,0.623674218
+Evangel University - Assemblies of God Theological Seminary,Springfield,MO,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,NA,NA,NA,NA,NA
+Broadview University - Globe University - Sioux Falls - Teach-Out,Sioux Falls,SD,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,14850,NA,NA,NA,NA
+Little Priest Tribal College - Ho Chunk Centre,Sioux City,IA,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,5140,NA,NA,NA,NA
+Rasmussen College - Overland Park,Overland Park,KS,Not Classified,Plains,"NA",NA,NA,NA,NA,NA,10935,NA,9774,18254,0.814446146
