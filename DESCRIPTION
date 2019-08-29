@@ -15,7 +15,9 @@ Authors@R:
 Depends: 
     R (>= 3.5.0)
 Imports:
-    ggplot2 (>= 3.0.0)
+    ggplot2 (>= 3.0.0),
+    scales,
+    tibble
 Description: What the package does (one paragraph).
 License: MIT + LICENSE
 Encoding: UTF-8
