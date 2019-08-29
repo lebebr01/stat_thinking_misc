@@ -1,0 +1,8 @@
+blue: #0072B2
+orange: #E69F00
+yellow: #F0E442
+green: #009E73
+light blue: #56B4E9
+red: #D55E00
+purple: #CC79A7
+black: #000000
