@@ -11,9 +11,9 @@
 #'  geom_point() +
 #'  facet_wrap(~am) +
 #'  geom_smooth(method = "lm", se = FALSE) +
-#'  theme_statthinking()
+#'  theme_statthinking() +
+#'  scale_color_bokehcolorblind()
 theme_statthinking <- function(base_size = 12, base_family = 'sans') {
-  colors <- tibble::deframe(statthink::bokeh_colorblind)
 
   (ggplot2::theme_bw(base_size = base_size, base_family = base_family) +
      theme(
@@ -45,9 +45,13 @@ theme_statthinking <- function(base_size = 12, base_family = 'sans') {
 #'
 #' @family colour bokeh
 #' @importFrom scales manual_pal
+#' @importFrom readr read_csv
 #' @export
 bokeh_colorblind_pal <- function() {
-  colors <- tibble::deframe(statthink::bokeh_colorblind)
+  colors <- tibble::deframe(
+    readr::read_csv(system.file('bokeh', 'Bokeh-colorblind.csv',
+                                package = 'statthink'))
+  )
   hex_values <- unname(colors)
   max_colors <- length(hex_values)
   max_val_func <- scales::manual_pal(hex_values)
@@ -65,15 +69,15 @@ bokeh_colorblind_pal <- function() {
 #' @rdname scale_bokehcolorblind
 #' @export
 scale_colour_bokehcolorblind <- function(...) {
-  discrete_scale("colour", "bokehcolorblind", bokeh_colorblind_pal(), ...)
+  ggplot2::discrete_scale("colour", "bokehcolorblind", bokeh_colorblind_pal(), ...)
 }
 
-#' rdname scale_bokehcolorblind
+#' @rdname scale_bokehcolorblind
 #' @export
 scale_color_bokehcolorblind <- scale_colour_bokehcolorblind()
 
-#' rdname scale_bokehcolorblind
+#' @rdname scale_bokehcolorblind
 #' @export
 scale_fill_bokehcolorblind <- function(...) {
-  discrete_scale("fill", "bokehcolorblind", bokeh_colorblind_pal(), ...)
+  ggplot2::discrete_scale("fill", "bokehcolorblind", bokeh_colorblind_pal(), ...)
 }

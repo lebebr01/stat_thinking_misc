@@ -9,6 +9,6 @@
 #'    \item{name}{name of the color}
 #'    \item{value}{hex code for the color}
 #'    }
-#' @example
-#' data(bokeh_colorblind)
+#' @examples
+#'   bokeh_colorblind
 "bokeh_colorblind"

@@ -17,8 +17,11 @@ Depends:
 Imports:
     ggplot2 (>= 3.0.0),
     scales,
-    tibble
+    tibble,
+    readr
 Description: What the package does (one paragraph).
+URL: http://github.com/lebebr01/statthink
+BugReports: http://github.com/lebebr01/statthink/issues
 License: MIT + LICENSE
 Encoding: UTF-8
 LazyData: true
