@@ -59,25 +59,25 @@ bokeh_colorblind_pal <- function() {
   max_val_func
 }
 
-#' Bokeh's Colorblind scales
+#' Bokeh's Color scales
 #'
 #' Color scales for ggplot2 using the colors from the Bokeh Colorblind Scale.
 #'
 #' @inheritParams ggplot2::scale_colour_hue
 #' @importFrom ggplot2 scale_colour_hue discrete_scale
 #' @references https://bokeh.pydata.org/en/latest/docs/reference/palettes.html
-#' @rdname scale_bokehcolorblind
+#' @rdname scale_bokeh
 #' @export
-scale_colour_bokehcolorblind <- function(...) {
-  ggplot2::discrete_scale("colour", "bokehcolorblind", bokeh_colorblind_pal(), ...)
+scale_colour_bokeh <- function(...) {
+    ggplot2::discrete_scale("colour", "bokeh", bokeh_colorblind_pal(), ...)
 }
 
-#' @rdname scale_bokehcolorblind
+#' @rdname scale_bokeh
 #' @export
-scale_color_bokehcolorblind <- scale_colour_bokehcolorblind()
+scale_color_bokeh <- scale_colour_bokeh()
 
-#' @rdname scale_bokehcolorblind
+#' @rdname scale_bokeh
 #' @export
-scale_fill_bokehcolorblind <- function(...) {
-  ggplot2::discrete_scale("fill", "bokehcolorblind", bokeh_colorblind_pal(), ...)
+scale_fill_bokeh <- function(...) {
+    ggplot2::discrete_scale("fill", "bokeh", bokeh_colorblind_pal(), ...)
 }
