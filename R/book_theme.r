@@ -12,7 +12,7 @@
 #'  facet_wrap(~am) +
 #'  geom_smooth(method = "lm", se = FALSE) +
 #'  theme_statthinking() +
-#'  scale_color_bokehcolorblind()
+#'  scale_color_bokeh()
 theme_statthinking <- function(base_size = 12, base_family = 'sans') {
 
   (ggplot2::theme_bw(base_size = base_size, base_family = base_family) +
