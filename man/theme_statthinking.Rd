@@ -15,5 +15,5 @@ ggplot(mtcars, aes(x = wt, y = mpg, colour = factor(gear))) +
  facet_wrap(~am) +
  geom_smooth(method = "lm", se = FALSE) +
  theme_statthinking() +
- scale_color_bokehcolorblind()
+ scale_color_bokeh()
 }
