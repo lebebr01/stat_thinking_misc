@@ -3,7 +3,7 @@ library(tidyverse)
 college_score <- read_csv('data-raw/College-scorecard-reduced.csv',
                           guess_max = 10000)
 
-college_score <- college_score %>%
+colleges <- college_score %>%
   select(INSTNM, CITY, STABBR, PREDDEG, REGION, LOCALE,
          ADM_RATE, ACTCMMID, UGDS,
          COSTT4_A, COSTT4_P, TUITIONFEE_IN, TUITIONFEE_OUT,
@@ -61,4 +61,5 @@ college_score <- college_score %>%
   rename_all(tolower) %>%
   drop_na(adm_rate)
 
-write_csv(college_score, path = 'data-raw/College-scorecard-clean.csv')
+write_csv(colleges, path = 'data-raw/College-scorecard-clean.csv')
+save(colleges, file = 'data/college-scorecard.rda')
