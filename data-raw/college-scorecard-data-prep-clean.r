@@ -56,7 +56,8 @@ college_score <- college_score %>%
          TUITIONFEE_OUT = as.numeric(TUITIONFEE_OUT),
          DEBT_MDN = as.numeric(DEBT_MDN),
          GRAD_DEBT_MDN = as.numeric(GRAD_DEBT_MDN),
-         FEMALE = as.numeric(FEMALE)) %>%
+         FEMALE = as.numeric(FEMALE),
+         bachelor_degree = ifelse(PREDDEG == 'Bachelor Degree', 1, 0)) %>%
   rename_all(tolower) %>%
   drop_na(adm_rate)
 
