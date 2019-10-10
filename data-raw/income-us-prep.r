@@ -30,7 +30,8 @@ income <- read_csv("/Users/brandonlebeau/Downloads/adult.data",
                                   government = c('Federal-gov', 'Local-gov', 'State-gov'),
                                   "self-employ" = c('Self-emp-inc', 'Self-emp-not-inc')
                                   ),
-         race = fct_lump(race, n = 2)
+         race = fct_lump(race, n = 2),
+         greater_than_50k_num = ifelse(greater_than_50k == ">50K", 1, 0)
          ) %>%
   filter(race != 'Other', workclass != 'Without-pay')
 
