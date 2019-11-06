@@ -57,13 +57,15 @@ nice_ride <- bind_rows(
            hour > 4 & hour < 12 ~ "Morning",
            hour <= 4 | hour > 21 ~ "Night",
            TRUE ~ "Afternoon"
-         )
+         ),
+         tripduration_minutes = tripduration / 60
          ) %>%
   select(-start_time, -end_time, -start_station_lat, -start_station_long,
          -end_station_lat, -end_station_long)
 
 # Sample within month
 nice_ride <- nice_ride %>%
+  filter(tripduration_minutes < 240) %>%
   group_split(month) %>%
   map(sample_n, size = 3000) %>%
   bind_rows()
