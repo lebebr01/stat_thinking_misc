@@ -61,3 +61,11 @@ nice_ride <- bind_rows(
          ) %>%
   select(-start_time, -end_time, -start_station_lat, -start_station_long,
          -end_station_lat, -end_station_long)
+
+# Sample within month
+nice_ride <- nice_ride %>%
+  group_split(month) %>%
+  map(sample_n, size = 3000) %>%
+  bind_rows()
+
+save(nice_ride, file = "data/nice_ride.rda")
