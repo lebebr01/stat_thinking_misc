@@ -59,16 +59,16 @@ happy <- happy %>%
 
 # Creating a new column for continents
 
-Happiness$Continent <- NA
+happy$Continent <- NA
 
-Happiness$Continent[which(Happiness$Country %in% c("Israel", "United Arab Emirates", "Singapore", "Thailand", "Taiwan Province of China",
+happy$Continent[which(happy$Country %in% c("Israel", "United Arab Emirates", "Singapore", "Thailand", "Taiwan Province of China",
                                                    "Qatar", "Saudi Arabia", "Kuwait", "Bahrain", "Malaysia", "Uzbekistan", "Japan",
                                                    "South Korea", "Turkmenistan", "Kazakhstan", "Turkey", "Hong Kong S.A.R., China", "Philippines",
                                                    "Jordan", "China", "Pakistan", "Indonesia", "Azerbaijan", "Lebanon", "Vietnam",
                                                    "Tajikistan", "Bhutan", "Kyrgyzstan", "Nepal", "Mongolia", "Palestinian Territories",
                                                    "Iran", "Bangladesh", "Myanmar", "Iraq", "Sri Lanka", "Armenia", "India", "Georgia",
                                                    "Cambodia", "Afghanistan", "Yemen", "Syria"))] <- "Asia"
-Happiness$Continent[which(Happiness$Country %in% c("Norway", "Denmark", "Iceland", "Switzerland", "Finland",
+happy$Continent[which(happy$Country %in% c("Norway", "Denmark", "Iceland", "Switzerland", "Finland",
                                                    "Netherlands", "Sweden", "Austria", "Ireland", "Germany",
                                                    "Belgium", "Luxembourg", "United Kingdom", "Czech Republic",
                                                    "Malta", "France", "Spain", "Slovakia", "Poland", "Italy",
@@ -77,15 +77,15 @@ Happiness$Continent[which(Happiness$Country %in% c("Norway", "Denmark", "Iceland
                                                    "Serbia", "Hungary", "Croatia", "Kosovo", "Montenegro",
                                                    "Greece", "Portugal", "Bosnia and Herzegovina", "Macedonia",
                                                    "Bulgaria", "Albania", "Ukraine"))] <- "Europe"
-Happiness$Continent[which(Happiness$Country %in% c("Canada", "Costa Rica", "United States", "Mexico",
+happy$Continent[which(happy$Country %in% c("Canada", "Costa Rica", "United States", "Mexico",
                                                    "Panama","Trinidad and Tobago", "El Salvador", "Belize", "Guatemala",
                                                    "Jamaica", "Nicaragua", "Dominican Republic", "Honduras",
                                                    "Haiti"))] <- "North America"
-Happiness$Continent[which(Happiness$Country %in% c("Chile", "Brazil", "Argentina", "Uruguay",
+happy$Continent[which(happy$Country %in% c("Chile", "Brazil", "Argentina", "Uruguay",
                                                    "Colombia", "Ecuador", "Bolivia", "Peru",
                                                    "Paraguay", "Venezuela"))] <- "South America"
-Happiness$Continent[which(Happiness$Country %in% c("New Zealand", "Australia"))] <- "Australia"
-Happiness$Continent[which(is.na(Happiness$Continent))] <- "Africa"
+happy$Continent[which(happy$Country %in% c("New Zealand", "Australia"))] <- "Australia"
+happy$Continent[which(is.na(happy$Continent))] <- "Africa"
 
 # save to statthink package
 write_csv(happy, path = "data-raw/happiness.csv")
