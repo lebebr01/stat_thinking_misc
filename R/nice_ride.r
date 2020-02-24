@@ -2,9 +2,9 @@
 #'
 #' This data contains paired down data from the monthly data downloads from the
 #'  Nice Ride rideshare program found in the Minneapolis metro area:
-#'  https://collegescorecard.ed.gov/data/
+#'  https://www.niceridemn.com/system-data
 #'
-#' @source https://collegescorecard.ed.gov/data/
+#' @source https://www.niceridemn.com/system-data
 #' @format A dataframe with 21,000 rows and 17 columns:
 #' \describe{
 #'    \item{tripduration}{Length of bike rental, in seconds}
