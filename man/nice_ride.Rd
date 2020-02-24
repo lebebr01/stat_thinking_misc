@@ -32,7 +32,7 @@
    \item{tripduration_minutes}{Length of bike rental, in minutes}
    }}
 \source{
-https://collegescorecard.ed.gov/data/
+https://www.niceridemn.com/system-data
 }
 \usage{
 nice_ride
@@ -40,7 +40,7 @@ nice_ride
 \description{
 This data contains paired down data from the monthly data downloads from the
  Nice Ride rideshare program found in the Minneapolis metro area:
- https://collegescorecard.ed.gov/data/
+ https://www.niceridemn.com/system-data
 }
 \examples{
   nice_ride
