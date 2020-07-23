@@ -84,10 +84,28 @@ us_weather_1920 <- read_csv("data-raw/lcd-sod-19-20.csv",
          drizzle = ifelse(grepl("DZ", weather_occurances), 1, 0),
          rain = ifelse(grepl("RA", weather_occurances), 1, 0),
          snow = ifelse(grepl("SN", weather_occurances), 1, 0),
+         drybulbtemp_avg = as.numeric(gsub("s$", "", drybulbtemp_avg)),
+         cooling_degree_days = as.numeric(ifelse(cooling_degree_days == '0s',
+                                                 0, cooling_degree_days)),
+         departure_from_normal_temperature = as.numeric(gsub("s$", "",
+                                           departure_from_normal_temperature)),
+         heating_degree_days = as.numeric(gsub("s$", "", heating_degree_days)),
+         drybulbtemp_max = as.numeric(gsub("s$", "", drybulbtemp_max)),
+         drybulbtemp_min = as.numeric(gsub("s$", "", drybulbtemp_min))
          )
 
 
 us_weather <- bind_rows(
   us_weather_1819,
   us_weather_1920
-)
+) %>%
+  mutate(
+    peak_wind_direction = as.numeric(gsub("s$", "", peak_wind_direction)),
+    peak_wind_speed = as.numeric(gsub("s$", "", peak_wind_speed)),
+    precipitation = gsub("s$", "", precipitation),
+    precipitation = as.numeric(ifelse(precipitation == 'T', 0.005, precipitation)),
+    snow_depth = as.numeric(ifelse(snow_depth == 'T', 0.1, snow_depth)),
+    snowfall = as.numeric(ifelse(snowfall == 'T', 0.005, snowfall))
+  )
+
+save(us_weather, file = 'data/us_weather.rda')
