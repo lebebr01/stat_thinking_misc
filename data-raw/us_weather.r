@@ -36,7 +36,13 @@ us_weather_1819 <- read_csv("data-raw/lcd-sod-18-19.csv",
                                                 ifelse(station == 72537094847, 'Detroit, MI',
                                                        ifelse(station == 72745014913, 'Duluth, MN',
                                                               ifelse(station == 72658014922, 'Minneapolis, MN',
-                                                                     'Buffalo, NY'))))))))
+                                                                     'Buffalo, NY'))))))),
+         fog = ifelse(grepl("FG", weather_occurances), 1, 0),
+         mist = ifelse(grepl("BR", weather_occurances), 1, 0),
+         drizzle = ifelse(grepl("DZ", weather_occurances), 1, 0),
+         rain = ifelse(grepl("RA", weather_occurances), 1, 0),
+         snow = ifelse(grepl("SN", weather_occurances), 1, 0),
+         )
 
 us_weather_1920 <- read_csv("data-raw/lcd-sod-19-20.csv",
                             col_names = c('station', 'date', 'report_type',
@@ -72,4 +78,16 @@ us_weather_1920 <- read_csv("data-raw/lcd-sod-19-20.csv",
                                                 ifelse(station == 72537094847, 'Detroit, MI',
                                                        ifelse(station == 72745014913, 'Duluth, MN',
                                                               ifelse(station == 72658014922, 'Minneapolis, MN',
-                                                                     'Buffalo, NY'))))))))
+                                                                     'Buffalo, NY'))))))),
+         fog = ifelse(grepl("FG", weather_occurances), 1, 0),
+         mist = ifelse(grepl("BR", weather_occurances), 1, 0),
+         drizzle = ifelse(grepl("DZ", weather_occurances), 1, 0),
+         rain = ifelse(grepl("RA", weather_occurances), 1, 0),
+         snow = ifelse(grepl("SN", weather_occurances), 1, 0),
+         )
+
+
+us_weather <- bind_rows(
+  us_weather_1819,
+  us_weather_1920
+)
