@@ -106,6 +106,7 @@ us_weather <- bind_rows(
     precipitation = as.numeric(ifelse(precipitation == 'T', 0.005, precipitation)),
     snow_depth = as.numeric(ifelse(snow_depth == 'T', 0.1, snow_depth)),
     snowfall = as.numeric(ifelse(snowfall == 'T', 0.005, snowfall))
-  )
+  ) %>%
+  select(-report_type, -backup_name)
 
 save(us_weather, file = 'data/us_weather.rda')
