@@ -2,7 +2,6 @@
 #'
 #' Theme created specifically for the statistical thinking text.
 #'
-#' @inheritParams ggplot2::theme_grey()
 #' @importFrom ggplot2 theme_bw theme_grey
 #' @importFrom tibble deframe
 #' @export

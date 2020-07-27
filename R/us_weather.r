@@ -15,6 +15,7 @@
 #'    \item{sealevelpressure_avg}{Average sea level pressure, in inches of mercury}
 #'    \item{stationpressure_avg}{Average station pressure, in inches of mercury}
 #'    \item{wetbulbtemp_avg}{Average wet bulb temperature, in Fahrenheit}
+#'    \item{windspeed_avg}{Average daily wind speed, in miles per hour}
 #'    \item{cooling_degree_days}{The number of degrees that a day's average
 #'       temperature is above 65 degrees Fahrenheit}
 #'    \item{departure_from_normal_temperature}{The difference in observed from
@@ -33,8 +34,12 @@
 #'    \item{snow_depth}{Snow depth measured at the end of the day}
 #'    \item{snowfall}{The amount of precipitation that fell as snow, in
 #'    inches}
-#'    \item{wind_direction}{Average wind direction of the day, in
-#'    degrees (see peak_wind_direction for examples)}
+#'    \item{wind_direction}{Highest sustained wind direction of the day, in
+#'    degrees (see peak_wind_direction for examples). Sustained wind is wind
+#'    that occurred for 2 minutes or longer.}
+#'    \item{wind_speed}{Highest sustained wind speed of the day, in
+#'    miles per hour. Sustained wind is wind that occurred for 2 minutes or
+#'    longer.}
 #'    \item{weather_occurances}{Abbreviations for weather occurances for that day}
 #'    \item{sunrise}{Time of sunrise}
 #'    \item{sunset}{Time of sunset}
@@ -55,5 +60,5 @@
 #'    0 = no snow observed}
 #'    }
 #' @examples
-#'   us_weather
+#'    us_weather
 "us_weather"

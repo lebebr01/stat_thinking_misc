@@ -4,7 +4,8 @@
 \name{colleges}
 \alias{colleges}
 \title{College Scorecard data}
-\format{A dataframe with 2019 rows and 17 columns:
+\format{
+A dataframe with 2019 rows and 17 columns:
 \describe{
    \item{instnm}{Name of higher ed institution}
    \item{city}{Name of city where higher ed institution is located}
@@ -23,7 +24,8 @@
    \item{grad_debt_mdn}{Median debt of students who graduated}
    \item{female}{Proportion of female}
    \item{bachelor_degree}{Whether primary degree is bachelor, 1 = bachelor, 0 = other}
-   }}
+   }
+}
 \source{
 https://collegescorecard.ed.gov/data/
 }

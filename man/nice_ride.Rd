@@ -4,7 +4,8 @@
 \name{nice_ride}
 \alias{nice_ride}
 \title{Nice Ride data}
-\format{A dataframe with 21,000 rows and 17 columns:
+\format{
+A dataframe with 21,000 rows and 17 columns:
 \describe{
    \item{tripduration}{Length of bike rental, in seconds}
    \item{start_station}{Station ID where rental started, NULL for dockless
@@ -30,7 +31,8 @@
    \item{morning}{When the bike was rented, Afternoon (Between noon up to 11 pm),
    Morning (Betweeen 5 am and up to noon), or Night (After 11 pm to 4 am)}
    \item{tripduration_minutes}{Length of bike rental, in minutes}
-   }}
+   }
+}
 \source{
 https://www.niceridemn.com/system-data
 }

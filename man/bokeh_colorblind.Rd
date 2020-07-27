@@ -4,11 +4,13 @@
 \name{bokeh_colorblind}
 \alias{bokeh_colorblind}
 \title{Color palette data for Bokeh Colorblind}
-\format{A dataframe with 8 rows and 2 columns:
+\format{
+A dataframe with 8 rows and 2 columns:
 \describe{
    \item{name}{name of the color}
    \item{value}{hex code for the color}
-   }}
+   }
+}
 \source{
 https://bokeh.pydata.org/en/latest/docs/reference/palettes.html
 }

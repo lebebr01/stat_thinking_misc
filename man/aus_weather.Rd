@@ -4,7 +4,8 @@
 \name{aus_weather}
 \alias{aus_weather}
 \title{Australian Weather Data}
-\format{A dataframe with 56,420 rows and 20 columns:
+\format{
+A dataframe with 56,420 rows and 20 columns:
 \describe{
    \item{Date}{Date of weather observation}
    \item{Location}{Location of weather observation}
@@ -26,7 +27,8 @@
    \item{RainToday}{Did it rain today? 1 = 1mm of rain or more, 0 = no rain}
    \item{RISK_MM}{Amount of rain to fall tomorrow}
    \item{RainTomorrow}{Will in rain tomorrow? Yes/No}
-   }}
+   }
+}
 \source{
 https://www.kaggle.com/jsphyg/weather-dataset-rattle-package
 }

@@ -3,7 +3,6 @@
 \docType{package}
 \name{statthink}
 \alias{statthink}
-\alias{statthink-package}
 \title{statthink}
 \description{
 This package contains extra functionality for the Add book name here.
