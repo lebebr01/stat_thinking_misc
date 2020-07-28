@@ -44,21 +44,22 @@ A dataframe with 3,400 rows and 34 columns:
    \item{weather_occurances}{Abbreviations for weather occurances for that day}
    \item{sunrise}{Time of sunrise}
    \item{sunset}{Time of sunset}
-   \item{month}{Month of measurement}
+   \item{month}{Month of measurement, represented as a character string}
+   \item{month_numeric}{Month of measurement, represented as numeric number}
    \item{year}{Year of measurement}
    \item{day}{Day of measurement}
    \item{winter_group}{Character vector of winter season}
    \item{location}{Character vector of location of weather observation}
-   \item{fog}{A boolean object, 1 = fog observed during the day, 0 = no fog
+   \item{fog}{A boolean object, Yes = fog observed during the day, No = no fog
    observed}
-   \item{mist}{A boolean object, 1 = mist observed during the day, 0 = no mist
+   \item{mist}{A boolean object, Yes = mist observed during the day, No = no mist
    observed}
-   \item{drizzle}{A boolean object, 1 = drizzle observed during the day,
-   0 = no drizzle observed}
-  \item{rain}{A boolean object, 1 = rain observed during the day,
-   0 = no rain observed}
-   \item{snow}{A boolean object, 1 = snow observed during the day,
-   0 = no snow observed}
+   \item{drizzle}{A boolean object, Yes = drizzle observed during the day,
+   No = no drizzle observed}
+  \item{rain}{A boolean object, Yes = rain observed during the day,
+   No = no rain observed}
+   \item{snow}{A boolean object, Yes = snow observed during the day,
+   No = no snow observed}
    }
 }
 \source{
