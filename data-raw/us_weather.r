@@ -107,7 +107,12 @@ us_weather <- bind_rows(
     precipitation = gsub("s$", "", precipitation),
     precipitation = as.numeric(ifelse(precipitation == 'T', 0.005, precipitation)),
     snow_depth = as.numeric(ifelse(snow_depth == 'T', 0.1, snow_depth)),
-    snowfall = as.numeric(ifelse(snowfall == 'T', 0.005, snowfall))
+    snowfall = as.numeric(ifelse(snowfall == 'T', 0.005, snowfall)),
+    month = ordered(month,
+                    levels = c('Oct', 'Nov', 'Dec',
+                               'Jan', 'Feb', 'Mar',
+                               'Apr', 'May', 'Jun',
+                               'Jul', 'Aug', 'Sep'))
   ) %>%
   select(-report_type, -backup_name)
 
