@@ -19,7 +19,7 @@ Imports:
     scales,
     tibble,
     readr
-Description: What the package does (one paragraph).
+Description: A companion to the text book, Statistional Reasoning through Computation and R.
 URL: http://github.com/lebebr01/statthink
 BugReports: http://github.com/lebebr01/statthink/issues
 License: MIT + LICENSE

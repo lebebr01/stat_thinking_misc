@@ -6,6 +6,11 @@
 \usage{
 theme_statthinking(base_size = 12, base_family = "sans")
 }
+\arguments{
+\item{base_size}{The base size of the text passed to ggplot2 theme.}
+
+\item{base_family}{The base font family to use, passed as a character string.}
+}
 \description{
 Theme created specifically for the statistical thinking text.
 }

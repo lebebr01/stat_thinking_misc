@@ -2,7 +2,9 @@
 #'
 #' Theme created specifically for the statistical thinking text.
 #'
-#' @importFrom ggplot2 theme_bw theme_grey
+#' @param base_size The base size of the text passed to ggplot2 theme.
+#' @param base_family The base font family to use, passed as a character string.
+#' @importFrom ggplot2 theme_bw theme_grey theme element_line element_blank element_rect
 #' @importFrom tibble deframe
 #' @export
 #' @examples
