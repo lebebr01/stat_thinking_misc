@@ -15,10 +15,10 @@ theme_statthinking(base_size = 12, base_family = "sans")
 Theme created specifically for the statistical thinking text.
 }
 \examples{
+library(ggplot2)
 ggplot(mtcars, aes(x = wt, y = mpg, colour = factor(gear))) +
  geom_point() +
  facet_wrap(~am) +
  geom_smooth(method = "lm", se = FALSE) +
- theme_statthinking() +
- scale_color_bokeh()
+ theme_statthinking()
 }

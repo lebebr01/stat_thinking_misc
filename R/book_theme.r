@@ -8,12 +8,12 @@
 #' @importFrom tibble deframe
 #' @export
 #' @examples
+#' library(ggplot2)
 #' ggplot(mtcars, aes(x = wt, y = mpg, colour = factor(gear))) +
 #'  geom_point() +
 #'  facet_wrap(~am) +
 #'  geom_smooth(method = "lm", se = FALSE) +
-#'  theme_statthinking() +
-#'  scale_color_bokeh()
+#'  theme_statthinking()
 theme_statthinking <- function(base_size = 12, base_family = 'sans') {
 
   (ggplot2::theme_bw(base_size = base_size, base_family = base_family) +
