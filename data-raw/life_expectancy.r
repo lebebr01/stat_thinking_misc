@@ -1,7 +1,7 @@
 library(tidyverse)
 
 life_expectancy <- read_csv("/Users/brandonlebeau/Downloads/Life Expectancy Data.csv",
-                            col_names = c('Country', 'Year', 'Status', 'Life_expec',
+                            col_names = c('Country', 'Year', 'Status', 'life_expec',
                                           'adult_mortality', 'infant_deaths',
                                           'alcohol', 'percent_expend',
                                           'hepatitis_b_immunization', 'measles_rate',
