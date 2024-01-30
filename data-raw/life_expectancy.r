@@ -13,5 +13,5 @@ life_expectancy <- read_csv("/Users/brandonlebeau/Downloads/Life Expectancy Data
                             skip = 1)
 
 # save
-write_csv(life_expectancy, path = 'Data-raw/life_expectancy.csv')
+write_csv(life_expectancy, file = 'Data-raw/life_expectancy.csv')
 save(life_expectancy, file = 'Data/life_expectancy.rda')
